@@ -1,0 +1,10 @@
+[7/8/2016 02:58:52] Chain(2)(178)GMTools: check access fail <1>
+[7/8/2016 02:58:52] Chain(2)(178)GMTools: check access fail <1>
+[7/8/2016 02:58:52] Chain(2)(178)GMTools: check access fail <1>
+[7/8/2016 02:59:05] Authenticated: default (client->admin)
+[7/8/2016 02:59:05] Chain(2)(179)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:59:21] Chain(2)(179)(Admin)command xp -a 50000
+[7/8/2016 02:59:48] Chain(2)(179)(Admin)command xp -a 50000
+[7/8/2016 03:00:05] Chain(2)(179)(Admin)GM Tools: access granted (3)
+[7/8/2016 03:00:14] Chain(2)(179)(Admin)command xp -a 500000
+[7/8/2016 03:03:29] Chain(2)(179)(Admin) has entered worldmap

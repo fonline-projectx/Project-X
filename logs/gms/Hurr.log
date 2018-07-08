@@ -1,0 +1,105 @@
+[28/12/2016 11:57:15] Hurr(8)(202)GMTools: check access fail <1>
+[28/12/2016 11:57:15] Hurr(8)(202)GMTools: check access fail <1>
+[28/12/2016 11:57:15] Hurr(8)(202)GMTools: check access fail <1>
+[28/12/2016 11:57:33] Authenticated: default (client->admin)
+[28/12/2016 11:57:33] Hurr(8)(202)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:58:07] Hurr(8)(202)(Admin)command give 41 -a 600000
+[28/12/2016 11:58:19] Hurr(8)(202)(Admin)command xp 10000
+[28/12/2016 11:58:33] Hurr(8)(202)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:58:41] Hurr(8)(203)(Admin) has entered worldmap
+[28/12/2016 11:58:41] Hurr(8)(203)(Admin) has entered map 203
+[28/12/2016 11:59:33] Hurr(8)(203)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:00:13] Hurr(8)(203)(Admin)command slap -p Butcher -a 300
+[28/12/2016 12:03:33] Hurr(8)(203)(Admin) has entered worldmap
+[28/12/2016 12:17:36] Hurr(11)(210)GMTools: check access fail <1>
+[28/12/2016 12:17:36] Hurr(11)(210)GMTools: check access fail <1>
+[28/12/2016 12:17:36] Hurr(11)(210)GMTools: check access fail <1>
+[28/12/2016 12:17:43] Authenticated: default (client->admin)
+[28/12/2016 12:17:43] Hurr(11)(210)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:18:21] Hurr(11)(210)(Admin)command teleport sf -p Butcher 
+[28/12/2016 12:18:21] Hurr(11)(63)(Admin) has entered worldmap
+[28/12/2016 12:18:21] Hurr(11)(63)(Admin) has entered map 63
+[28/12/2016 12:18:43] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:18:45] Hurr(11)(63)(Admin)command summon Butcher 
+[28/12/2016 12:18:51] Hurr(11)(63)(Admin)command summon -p Butcher 
+[28/12/2016 12:18:59] Hurr(11)(63)(Admin)command summon -p Butcher 
+[28/12/2016 12:19:01] Hurr(11)(63)(Admin)command summon -p Butcher
+[28/12/2016 12:19:01] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:19:14] Hurr(11)(63)(Admin)command give 41 1000000
+[28/12/2016 12:19:27] Hurr(11)(63)(Admin) picks up item 41 (1000000)
+[28/12/2016 12:19:28] Hurr(11)(63)(Admin)command give 41 1000000
+[28/12/2016 12:19:33] Hurr(11)(63)(Admin) lost sight of Butcher(9)(63)(Admin)
+[28/12/2016 12:19:34] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:19:43] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:20:02] Hurr(11)(63)(Admin)command xp 2000
+[28/12/2016 12:20:20] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:20:43] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:21:34] Hurr(11)(63)(Admin)command give 527 -p Butcher -legit
+[28/12/2016 12:21:43] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:21:48] Hurr(11)(63)(Admin) lost sight of Butcher(9)(63)(Admin)
+[28/12/2016 12:21:54] Hurr(11)(0)(Admin) has entered worldmap
+[28/12/2016 12:22:06] Hurr(11)(63)(Admin) has entered map 63
+[28/12/2016 12:22:20] Hurr(11)(63)(Admin)command teleport nr -p Butcher
+[28/12/2016 12:22:26] Hurr(11)(63)(Admin)command teleport bh -p Butcher
+[28/12/2016 12:22:30] Hurr(11)(63)(Admin)command teleport nr -p Butcher
+[28/12/2016 12:22:32] Hurr(11)(63)(Admin)command teleport bh -p Butcher
+[28/12/2016 12:22:43] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:22:44] Hurr(11)(63)(Admin)command slap -p Butcher -a 10
+[28/12/2016 12:23:43] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:23:53] Hurr(11)(63)(Admin)command give 17 -a 1 -p Butcher -legit
+[28/12/2016 12:24:43] Hurr(11)(63)(Admin)command give 22060 -p Butcher -legit
+[28/12/2016 12:24:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:24:48] Hurr(11)(63)(Admin)command give 22059 -p Butcher -legit
+[28/12/2016 12:24:52] Hurr(11)(63)(Admin)command give 22058 -p Butcher -legit
+[28/12/2016 12:24:56] Hurr(11)(63)(Admin)command give 22057 -p Butcher -legit
+[28/12/2016 12:25:00] Hurr(11)(63)(Admin)command give 22056 -p Butcher -legit
+[28/12/2016 12:25:05] Hurr(11)(63)(Admin)command give 22055 -p Butcher -legit
+[28/12/2016 12:25:16] Hurr(11)(63)(Admin)command give 22055 -p Butcher -legit
+[28/12/2016 12:25:21] Hurr(11)(63)(Admin)command give 22054 -p Butcher -legit
+[28/12/2016 12:25:25] Hurr(11)(63)(Admin)command give 22053 -p Butcher -legit
+[28/12/2016 12:25:29] Hurr(11)(63)(Admin)command give 22052 -p Butcher -legit
+[28/12/2016 12:25:40] Hurr(11)(63)(Admin)command give 22051-p Butcher -legit
+[28/12/2016 12:25:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:25:46] Hurr(11)(63)(Admin)command give 22051 -p Butcher -legit
+[28/12/2016 12:25:57] Hurr(11)(63)(Admin)command give 22050 -p Butcher -legit
+[28/12/2016 12:26:03] Hurr(11)(63)(Admin)command give 22051 -p Butcher -legit
+[28/12/2016 12:26:08] Hurr(11)(63)(Admin)command give 22052 -p Butcher -legit
+[28/12/2016 12:26:12] Hurr(11)(63)(Admin)command give 22053 -p Butcher -legit
+[28/12/2016 12:26:15] Hurr(11)(63)(Admin)command give 22054 -p Butcher -legit
+[28/12/2016 12:26:38] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:26:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:26:51] Hurr(11)(63)(Admin) picks up item 2849
+[28/12/2016 12:27:01] Hurr(11)(63)(Admin) lost sight of Butcher(9)(63)(Admin)
+[28/12/2016 12:27:02] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:27:02] Hurr(11)(63)(Admin) lost sight of Butcher(9)(63)(Admin)
+[28/12/2016 12:27:03] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:27:03] Hurr(11)(63)(Admin) lost sight of Butcher(9)(63)(Admin)
+[28/12/2016 12:27:04] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:27:04] Hurr(11)(63)(Admin) picks up item 2959
+[28/12/2016 12:27:05] Hurr(11)(63)(Admin) lost sight of Butcher(9)(63)(Admin)
+[28/12/2016 12:27:07] Hurr(11)(63)(Admin)command give 17 -a 5 -p Butcher -legit
+[28/12/2016 12:27:30] Hurr(11)(63)(Admin) sees Butcher(9)(63)(Admin)
+[28/12/2016 12:27:37] Hurr(11)(63)(Admin) said "xp" 
+[28/12/2016 12:27:38] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:27:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:27:47] Hurr(11)(63)(Admin)command give 17 -a 51 -p Butcher -legit
+[28/12/2016 12:27:53] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:27:54] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:27:55] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:41] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:43] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:43] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:28:45] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:53] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:54] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:55] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:28:55] Hurr(11)(63)(Admin)command xp
+[28/12/2016 12:29:06] Hurr(11)(63)(Admin)command xp -p Hurr -a 2000
+[28/12/2016 12:29:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:29:53] Hurr(11)(63)(Admin)command xp -p Hurr -a 20000
+[28/12/2016 12:30:42] Hurr(11)(63)(Admin)command eventsuicide
+[28/12/2016 12:30:44] Hurr(11)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:31:52] Hurr(11)(136)(Admin) has entered worldmap
+[28/12/2016 12:31:52] Hurr(11)(136)(Admin) has entered map 136
+[28/12/2016 12:33:49] Hurr(11)(136)(Admin) has entered worldmap

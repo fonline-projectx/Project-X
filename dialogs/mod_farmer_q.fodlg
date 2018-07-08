@@ -1,0 +1,82 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+25 1010 D _param p REPUTATION_MODOC < 0 #
+25 1020 D _param p ST_KARMA < 1 #
+3 1030 D _param p ST_INTELLECT > 3 D _param p REPUTATION_MODOC > 5 D _param p ST_KARMA > 5 #
+2 1040 @
+2 2000 None 0 @
+3 3000 None 0 #
+4 3010 D _item p PID_SHOVEL < 1 D _item p PID_WATER_FLASK < 1 D _item p PID_FIRST_AID_KIT < 1 D _item p PID_ROPE < 1 D _item p PID_MUTATED_FRUIT < 1 #
+10 3020 D _item p PID_SHOVEL > 0 #
+11 3030 D _item p PID_WATER_FLASK > 0 #
+12 3040 D _item p PID_FIRST_AID_KIT > 0 #
+13 3050 D _item p PID_ROPE > 0 #
+14 3060 D _item p PID_MUTATED_FRUIT > 0 #
+0 3070 @
+4 4000 None 0 #
+0 4010 @
+10 5000 None 0 #
+20 5010 R _item p PID_SHOVEL - 1 #
+0 5020 @
+11 6000 None 0 #
+20 6010 R _item p PID_WATER_FLASK - 1 #
+0 6020 @
+12 7000 None 0 #
+20 7010 R _item p PID_FIRST_AID_KIT - 1 #
+0 7020 @
+13 8000 None 0 #
+20 8010 R _item p PID_ROPE - 1 #
+0 8020 @
+14 9000 None 0 #
+20 9010 R _item p PID_MUTATED_FRUIT - 1 #
+0 9020 @
+20 10000 None 0 #
+0 10010 R _param p REPUTATION_MODOC + 100 @
+25 11000 None 0 &
+
+[engl]
+{100}{}{Farmer}
+{200}{}{A farmer.}
+{210}{}{A farmer in old tattered trousers and a shirt.}
+{1000}{}{Predialogue installations}
+{1010}{}{[Hated]}
+{1020}{}{[NPC Hatred]}
+{1030}{}{[Idolized]}
+{1040}{}{[Standard]}
+{2000}{}{Yeah, the harvest is bad today. @@ Who built my shovel ?! You? @ @ They trampled on the beds here! @@ Devil's rodents! @@ I've been working hard from the shit. @@ So many cases, so many cases. @@ Do not get in the way! @@ Its - it's always more useful. @@ Scotch feed, beds to dig up ... @@ A little light, and I already in the field ... @@ How you work, and you break. @@ Nothing grows! @@ Running? Well, run, run ... @@ All to plow! @@ And this, what kind? Interesting ... @@ Work is not a big deal! @@ My dog ​​barked all night! @@ Where would you take the pitchfork? @@ Money is not the main thing, the main thing is the farm! @@ There's so much to dig up. @@ There's so much to weed out. @ @ There's so much work ... @@ Nobody wants to help, but to devour - please! @@ And my, you hear, grumbled yesterday ...}
+{3000}{}{Howdy! Glad to see you! @@ Great! @@ Oh, how ya doin'? @@ Here you are! @@ Hello! You look good! @@ Hello! @sex@|I wish my son were like you.|Marry me!| @@ Hello! @@ I'm glad to see you! @@ These people always want to see more often! @@ Where are you headed ?! @ @ Hello, @sex@|chum||miss|!}
+{3010}{}{Hello! How are you? @@ Hullo, how's life? @@ Hello. Is there anything interesting? @@ Hello, what's new? @@ Can I help you? @@ How are you?}
+{3020}{}{Hello! How are you? @@ Hullo, how's life? @@ Hello. Is there anything interesting? @@ Hello, what's new? @@ Can I help you? @@ How are you?}
+{3030}{}{Hello! How are you? @@ Hullo, how's life? @@ Hello. Is there anything interesting? @@ Hello, what's new? @@ Can I help you? @@ How are you?}
+{3040}{}{Hello! How are you? @@ Hullo, how's life? @@ Hello. Is there anything interesting? @@ Hello, what's new? @@ Can I help you? @@ How are you?}
+{3050}{}{Hello! How are you? @@ Hullo, how's life? @@ Hello. Is there anything interesting? @@ Hello, what's new? @@ Can I help you? @@ How are you?}
+{3060}{}{Hello! How are you? @@ Hullo, how's life? @@ Hello. Is there anything interesting? @@ Hello, what's new? @@ Can I help you? @@ How are you?}
+{3070}{}{I'm fine. Bye!}
+{4000}{}{It's perfect! Thank you for your care! @@ The harvest has turned out well! @@ Everything is growing, everything is blossoming and fruiting! @@ My wife and I reconciled again! @@ I've already done all my work, now I'm resting. @@ We eradicated all the weeds! @@ Our fields - the best! @@ The weather today is excellent! Everything is growing! @@ No technology! Everything was done with these hands! @@ In the evening he built a kennel for his dog. @@ Skotin fed, he made preparations for tomorrow. @@ Farmers always help each other. No competition! @@ I've had seven of them for a long time now - that's the support is growing! @@ Everything is good for us! @@ There's nowhere better! @@ Best of all!}
+{4010}{}{I'm happy for you. So long!}
+{5000}{}{Thanks to you, it's okay. But I lost my shovel. Have another? @ @ Thanks to you, everything is fine. But I broke my shovel! @ @ Thanks to you, it's okay. But my spade was stolen from me! D'you got one?}
+{5010}{}{Yes, I have a shovel! Here, take it.}
+{5020}{}{No, unfortunately, I do not have a shovel. Bye.}
+{6000}{}{Work sure makes a guy thirsty. @@ So hot out, spare a drink? @@ Oi, can you spot a pal some water?}
+{6010}{}{Here, take the water, nothing quenches thirst so well!}
+{6020}{}{No, I do not have any water. Bye.}
+{7000}{}{Shit! I sliced my damn finger. I need a bandage. @@ Everything would be fine, but I cut my foot, while you work, can you give me the first aid kit? @@ Please help me to bandage my hand, don't want an infection. @@ I have My son has fallen and injured his knee! Can you help with the first aid kit? @@ My daughter cut herself, please give me a first aid kit?}
+{7010}{}{Of course! [Use the First Aid Kid]}
+{7020}{}{'tis a pity that I have nothing to help you. Good luck.}
+{8000}{}{Thanks to you, it's okay. I needed a rope here. Do not you? @ @ Thanks to you, everything is fine. I want to make a leash for cattle, I need a rope. @ @ Thanks to you, it's okay. But I broke the rope! Do you have another?}
+{8010}{}{Yes, I have a rope. You can take it.}
+{8020}{}{The rope? No, I do not have a rope. Ask someone else ... For now.}
+{9000}{}{No problem! I just want to feel creepy! @@ Everything is fine, but I'm hungry slightly! Wouldn't happen to be carrying Mutfruit, now, would ya?}
+{9010}{}{I think you'll like this fruit. Go on, try. [Pass him the fruit]}
+{9020}{}{Go to a bar or restaurant, there's food there. Bye.}
+{10000}{}{Wow! Thank you very much! @@ That's great! Thanks! @@ Thank you very much! @@ I knew that you would always help! @@ Thank you, you are a real pal!}
+{10010}{}{Always happy @sex@|to see you|to see you|, can I help you? @@ Much obliged. If you need anything else, let me know! @@ Thank you. Good luck! @@ No sweat. Glad to @sex@|help a pal|help a lady in need|.}
+{11000}{}{I'm busy! @@ I do not have time. @@ Leave. @@ Leave me! @@ Scram!}
+

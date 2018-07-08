@@ -1,0 +1,1557 @@
+[7/8/2016 01:14:03] Initializing economy...
+[7/8/2016 01:14:03] The bank in Vault City has $100000
+[7/8/2016 01:14:03] The bank in Redding has $100000
+[7/8/2016 01:14:03] The bank in Broken Hills has $100000
+[7/8/2016 01:14:03] The bank in San Francisco $100000
+[7/8/2016 01:14:03] The bank in NCR has $100000
+[7/8/2016 01:14:03] The bank in Hub has $100000
+[7/8/2016 01:14:03] Creating bank interest event
+[7/8/2016 01:14:03] Setting item prices after proto.
+[7/8/2016 01:14:03] Setting protoprice for PID 1 to 610
+[7/8/2016 01:14:03] Setting protoprice for PID 2 to 2040
+[7/8/2016 01:14:03] Setting protoprice for PID 3 to 60000
+[7/8/2016 01:14:03] Setting protoprice for PID 4 to 23
+[7/8/2016 01:14:03] Setting protoprice for PID 5 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 6 to 60
+[7/8/2016 01:14:03] Setting protoprice for PID 7 to 70
+[7/8/2016 01:14:03] Setting protoprice for PID 8 to 170
+[7/8/2016 01:14:03] Setting protoprice for PID 9 to 1210
+[7/8/2016 01:14:03] Setting protoprice for PID 10 to 600
+[7/8/2016 01:14:03] Setting protoprice for PID 11 to 550
+[7/8/2016 01:14:03] Setting protoprice for PID 12 to 7025
+[7/8/2016 01:14:03] Setting protoprice for PID 13 to 2510
+[7/8/2016 01:14:03] Setting protoprice for PID 14 to 180
+[7/8/2016 01:14:03] Setting protoprice for PID 15 to 7030
+[7/8/2016 01:14:03] Setting protoprice for PID 16 to 220
+[7/8/2016 01:14:03] Setting protoprice for PID 17 to 10095
+[7/8/2016 01:14:03] Setting protoprice for PID 18 to 380
+[7/8/2016 01:14:03] Setting protoprice for PID 19 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 20 to 70
+[7/8/2016 01:14:03] Setting protoprice for PID 21 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 22 to 1535
+[7/8/2016 01:14:03] Setting protoprice for PID 23 to 2525
+[7/8/2016 01:14:03] Setting protoprice for PID 24 to 3490
+[7/8/2016 01:14:03] Setting protoprice for PID 25 to 104
+[7/8/2016 01:14:03] Setting protoprice for PID 26 to 201
+[7/8/2016 01:14:03] Setting protoprice for PID 27 to 150
+[7/8/2016 01:14:03] Setting protoprice for PID 28 to 30000
+[7/8/2016 01:14:03] Setting protoprice for PID 29 to 9
+[7/8/2016 01:14:03] Setting protoprice for PID 30 to 12
+[7/8/2016 01:14:03] Setting protoprice for PID 31 to 8
+[7/8/2016 01:14:03] Setting protoprice for PID 32 to 12
+[7/8/2016 01:14:03] Setting protoprice for PID 33 to 19
+[7/8/2016 01:14:03] Setting protoprice for PID 34 to 14
+[7/8/2016 01:14:03] Setting protoprice for PID 35 to 7
+[7/8/2016 01:14:03] Setting protoprice for PID 36 to 8
+[7/8/2016 01:14:03] Setting protoprice for PID 37 to 492
+[7/8/2016 01:14:03] Setting protoprice for PID 38 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 39 to 24
+[7/8/2016 01:14:03] Setting protoprice for PID 40 to 135
+[7/8/2016 01:14:03] Setting protoprice for PID 41 to 1
+[7/8/2016 01:14:03] Setting protoprice for PID 42 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 43 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 44 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 45 to 140
+[7/8/2016 01:14:03] Setting protoprice for PID 46 to 25
+[7/8/2016 01:14:03] Setting protoprice for PID 47 to 1000
+[7/8/2016 01:14:03] Setting protoprice for PID 48 to 300
+[7/8/2016 01:14:03] Setting protoprice for PID 49 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 50 to 20
+[7/8/2016 01:14:03] Setting protoprice for PID 51 to 1530
+[7/8/2016 01:14:03] Setting protoprice for PID 52 to 2500
+[7/8/2016 01:14:03] Setting protoprice for PID 53 to 400
+[7/8/2016 01:14:03] Setting protoprice for PID 54 to 1800
+[7/8/2016 01:14:03] Setting protoprice for PID 55 to 500
+[7/8/2016 01:14:03] Setting protoprice for PID 56 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 57 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 58 to 40
+[7/8/2016 01:14:03] Setting protoprice for PID 59 to 4500
+[7/8/2016 01:14:03] Setting protoprice for PID 60 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 61 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 62 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 63 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 64 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 65 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 66 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 67 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 68 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 69 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 70 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 71 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 72 to 35
+[7/8/2016 01:14:03] Setting protoprice for PID 73 to 2000
+[7/8/2016 01:14:03] Setting protoprice for PID 74 to 250
+[7/8/2016 01:14:03] Setting protoprice for PID 75 to 300
+[7/8/2016 01:14:03] Setting protoprice for PID 76 to 1200
+[7/8/2016 01:14:03] Setting protoprice for PID 77 to 375
+[7/8/2016 01:14:03] Setting protoprice for PID 78 to 300
+[7/8/2016 01:14:03] Setting protoprice for PID 79 to 35
+[7/8/2016 01:14:03] Setting protoprice for PID 80 to 175
+[7/8/2016 01:14:03] Setting protoprice for PID 81 to 20
+[7/8/2016 01:14:03] Setting protoprice for PID 82 to 4
+[7/8/2016 01:14:03] Setting protoprice for PID 83 to 4
+[7/8/2016 01:14:03] Setting protoprice for PID 84 to 480
+[7/8/2016 01:14:03] Setting protoprice for PID 85 to 3060
+[7/8/2016 01:14:03] Setting protoprice for PID 86 to 1500
+[7/8/2016 01:14:03] Setting protoprice for PID 87 to 275
+[7/8/2016 01:14:03] Setting protoprice for PID 88 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 89 to 210
+[7/8/2016 01:14:03] Setting protoprice for PID 90 to 100
+[7/8/2016 01:14:03] Setting protoprice for PID 91 to 1000
+[7/8/2016 01:14:03] Setting protoprice for PID 92 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 93 to 150
+[7/8/2016 01:14:03] Setting protoprice for PID 94 to 240
+[7/8/2016 01:14:03] Setting protoprice for PID 95 to 9
+[7/8/2016 01:14:03] Setting protoprice for PID 96 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 97 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 98 to 40
+[7/8/2016 01:14:03] Setting protoprice for PID 99 to 400
+[7/8/2016 01:14:03] Setting protoprice for PID 100 to 300
+[7/8/2016 01:14:03] Setting protoprice for PID 101 to 100
+[7/8/2016 01:14:03] Setting protoprice for PID 102 to 425
+[7/8/2016 01:14:03] Setting protoprice for PID 103 to 8
+[7/8/2016 01:14:03] Setting protoprice for PID 104 to 80
+[7/8/2016 01:14:03] Setting protoprice for PID 105 to 25
+[7/8/2016 01:14:03] Setting protoprice for PID 106 to 3
+[7/8/2016 01:14:03] Setting protoprice for PID 107 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 108 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 109 to 300
+[7/8/2016 01:14:03] Setting protoprice for PID 110 to 700
+[7/8/2016 01:14:03] Setting protoprice for PID 111 to 9
+[7/8/2016 01:14:03] Setting protoprice for PID 112 to 130
+[7/8/2016 01:14:03] Setting protoprice for PID 113 to 90
+[7/8/2016 01:14:03] Setting protoprice for PID 114 to 200
+[7/8/2016 01:14:03] Setting protoprice for PID 115 to 3120
+[7/8/2016 01:14:03] Setting protoprice for PID 116 to 2550
+[7/8/2016 01:14:03] Setting protoprice for PID 117 to 5
+[7/8/2016 01:14:03] Setting protoprice for PID 118 to 4475
+[7/8/2016 01:14:03] Setting protoprice for PID 119 to 700
+[7/8/2016 01:14:03] Setting protoprice for PID 120 to 10000
+[7/8/2016 01:14:03] Setting protoprice for PID 121 to 5
+[7/8/2016 01:14:03] Setting protoprice for PID 122 to 70
+[7/8/2016 01:14:03] Setting protoprice for PID 123 to 1000
+[7/8/2016 01:14:03] Setting protoprice for PID 124 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 125 to 10
+[7/8/2016 01:14:03] Setting protoprice for PID 126 to 25
+[7/8/2016 01:14:03] Setting protoprice for PID 127 to 200
+[7/8/2016 01:14:03] Setting protoprice for PID 128 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 129 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 130 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 131 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 132 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 133 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 134 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 135 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 136 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 137 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 138 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 139 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 140 to 25
+[7/8/2016 01:14:03] Setting protoprice for PID 141 to 400
+[7/8/2016 01:14:03] Setting protoprice for PID 142 to 12
+[7/8/2016 01:14:03] Setting protoprice for PID 143 to 5005
+[7/8/2016 01:14:03] Setting protoprice for PID 144 to 260
+[7/8/2016 01:14:03] Setting protoprice for PID 145 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 146 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 147 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 148 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 149 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 150 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 151 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 152 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 153 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 154 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 155 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 156 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 157 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 158 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 159 to 60
+[7/8/2016 01:14:03] Setting protoprice for PID 160 to 540
+[7/8/2016 01:14:03] Setting protoprice for PID 161 to 120
+[7/8/2016 01:14:03] Setting protoprice for PID 162 to 220
+[7/8/2016 01:14:03] Setting protoprice for PID 163 to 4
+[7/8/2016 01:14:03] Setting protoprice for PID 164 to 70
+[7/8/2016 01:14:03] Setting protoprice for PID 165 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 166 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 167 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 168 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 169 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 170 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 171 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 172 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 173 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 174 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 175 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 176 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 177 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 178 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 179 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 180 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 181 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 182 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 183 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 184 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 185 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 186 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 187 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 188 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 189 to 0
+[7/8/2016 01:14:03] Setting protoprice for PID 190 to 200
+[7/8/2016 01:14:03] Setting protoprice for PID 191 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 192 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 193 to 50
+[7/8/2016 01:14:03] Setting protoprice for PID 194 to 75
+[7/8/2016 01:14:03] Setting protoprice for PID 195 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 196 to 125
+[7/8/2016 01:14:04] Setting protoprice for PID 197 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 198 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 199 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 200 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 201 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 202 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 203 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 204 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 205 to 60
+[7/8/2016 01:14:04] Setting protoprice for PID 206 to 500
+[7/8/2016 01:14:04] Setting protoprice for PID 207 to 650
+[7/8/2016 01:14:04] Setting protoprice for PID 208 to 800
+[7/8/2016 01:14:04] Setting protoprice for PID 209 to 850
+[7/8/2016 01:14:04] Setting protoprice for PID 210 to 1800
+[7/8/2016 01:14:04] Setting protoprice for PID 211 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 212 to 600
+[7/8/2016 01:14:04] Setting protoprice for PID 213 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 214 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 215 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 216 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 217 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 218 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 219 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 220 to 100
+[7/8/2016 01:14:04] Setting protoprice for PID 221 to 40
+[7/8/2016 01:14:04] Setting protoprice for PID 222 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 223 to 40
+[7/8/2016 01:14:04] Setting protoprice for PID 224 to 300
+[7/8/2016 01:14:04] Setting protoprice for PID 225 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 226 to 15
+[7/8/2016 01:14:04] Setting protoprice for PID 227 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 228 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 229 to 150
+[7/8/2016 01:14:04] Setting protoprice for PID 230 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 231 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 232 to 70000
+[7/8/2016 01:14:04] Setting protoprice for PID 233 to 10090
+[7/8/2016 01:14:04] Setting protoprice for PID 234 to 240
+[7/8/2016 01:14:04] Setting protoprice for PID 235 to 1595
+[7/8/2016 01:14:04] Setting protoprice for PID 236 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 237 to 100
+[7/8/2016 01:14:04] Setting protoprice for PID 238 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 239 to 15015
+[7/8/2016 01:14:04] Setting protoprice for PID 240 to 5045
+[7/8/2016 01:14:04] Setting protoprice for PID 241 to 2230
+[7/8/2016 01:14:04] Setting protoprice for PID 242 to 2555
+[7/8/2016 01:14:04] Setting protoprice for PID 243 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 244 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 245 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 246 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 247 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 248 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 249 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 250 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 251 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 252 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 253 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 254 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 255 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 256 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 257 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 258 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 259 to 350
+[7/8/2016 01:14:04] Setting protoprice for PID 260 to 5000
+[7/8/2016 01:14:04] Setting protoprice for PID 261 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 262 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 263 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 264 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 265 to 800
+[7/8/2016 01:14:04] Setting protoprice for PID 266 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 267 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 268 to 4070
+[7/8/2016 01:14:04] Setting protoprice for PID 269 to 100
+[7/8/2016 01:14:04] Setting protoprice for PID 270 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 271 to 12
+[7/8/2016 01:14:04] Setting protoprice for PID 272 to 12
+[7/8/2016 01:14:04] Setting protoprice for PID 273 to 80
+[7/8/2016 01:14:04] Setting protoprice for PID 274 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 275 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 276 to 120
+[7/8/2016 01:14:04] Setting protoprice for PID 277 to 250
+[7/8/2016 01:14:04] Setting protoprice for PID 278 to 10
+[7/8/2016 01:14:04] Setting protoprice for PID 279 to 800
+[7/8/2016 01:14:04] Setting protoprice for PID 280 to 90
+[7/8/2016 01:14:04] Setting protoprice for PID 281 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 282 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 283 to 750
+[7/8/2016 01:14:04] Setting protoprice for PID 284 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 285 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 286 to 12
+[7/8/2016 01:14:04] Setting protoprice for PID 287 to 820
+[7/8/2016 01:14:04] Setting protoprice for PID 288 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 289 to 70
+[7/8/2016 01:14:04] Setting protoprice for PID 290 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 291 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 292 to 250
+[7/8/2016 01:14:04] Setting protoprice for PID 293 to 300
+[7/8/2016 01:14:04] Setting protoprice for PID 294 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 295 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 296 to 6010
+[7/8/2016 01:14:04] Setting protoprice for PID 297 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 298 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 299 to 15
+[7/8/2016 01:14:04] Setting protoprice for PID 300 to 10
+[7/8/2016 01:14:04] Setting protoprice for PID 301 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 302 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 303 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 304 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 305 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 306 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 307 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 308 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 309 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 310 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 311 to 10
+[7/8/2016 01:14:04] Setting protoprice for PID 312 to 10
+[7/8/2016 01:14:04] Setting protoprice for PID 313 to 310
+[7/8/2016 01:14:04] Setting protoprice for PID 314 to 2
+[7/8/2016 01:14:04] Setting protoprice for PID 315 to 2
+[7/8/2016 01:14:04] Setting protoprice for PID 316 to 2
+[7/8/2016 01:14:04] Setting protoprice for PID 317 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 318 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 319 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 320 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 321 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 322 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 323 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 324 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 325 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 326 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 327 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 328 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 329 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 330 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 331 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 332 to 1060
+[7/8/2016 01:14:04] Setting protoprice for PID 333 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 334 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 335 to 35
+[7/8/2016 01:14:04] Setting protoprice for PID 336 to 35
+[7/8/2016 01:14:04] Setting protoprice for PID 337 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 338 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 339 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 340 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 341 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 342 to 10
+[7/8/2016 01:14:04] Setting protoprice for PID 343 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 344 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 345 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 348 to 90000
+[7/8/2016 01:14:04] Setting protoprice for PID 349 to 110000
+[7/8/2016 01:14:04] Setting protoprice for PID 350 to 20000
+[7/8/2016 01:14:04] Setting protoprice for PID 351 to 3340
+[7/8/2016 01:14:04] Setting protoprice for PID 352 to 13000
+[7/8/2016 01:14:04] Setting protoprice for PID 353 to 6095
+[7/8/2016 01:14:04] Setting protoprice for PID 354 to 5075
+[7/8/2016 01:14:04] Setting protoprice for PID 355 to 6975
+[7/8/2016 01:14:04] Setting protoprice for PID 356 to 3000
+[7/8/2016 01:14:04] Setting protoprice for PID 357 to 6
+[7/8/2016 01:14:04] Setting protoprice for PID 358 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 359 to 30
+[7/8/2016 01:14:04] Setting protoprice for PID 360 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 361 to 8
+[7/8/2016 01:14:04] Setting protoprice for PID 362 to 14
+[7/8/2016 01:14:04] Setting protoprice for PID 363 to 12
+[7/8/2016 01:14:04] Setting protoprice for PID 364 to 500
+[7/8/2016 01:14:04] Setting protoprice for PID 365 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 366 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 367 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 368 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 369 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 370 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 371 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 372 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 373 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 377 to 100
+[7/8/2016 01:14:04] Setting protoprice for PID 378 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 379 to 910
+[7/8/2016 01:14:04] Setting protoprice for PID 380 to 2550
+[7/8/2016 01:14:04] Setting protoprice for PID 381 to 10750
+[7/8/2016 01:14:04] Setting protoprice for PID 382 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 383 to 2
+[7/8/2016 01:14:04] Setting protoprice for PID 384 to 400
+[7/8/2016 01:14:04] Setting protoprice for PID 385 to 240
+[7/8/2016 01:14:04] Setting protoprice for PID 386 to 5000
+[7/8/2016 01:14:04] Setting protoprice for PID 387 to 5990
+[7/8/2016 01:14:04] Setting protoprice for PID 388 to 2600
+[7/8/2016 01:14:04] Setting protoprice for PID 389 to 10085
+[7/8/2016 01:14:04] Setting protoprice for PID 390 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 391 to 17000
+[7/8/2016 01:14:04] Setting protoprice for PID 392 to 48000
+[7/8/2016 01:14:04] Setting protoprice for PID 393 to 7500
+[7/8/2016 01:14:04] Setting protoprice for PID 394 to 30000
+[7/8/2016 01:14:04] Setting protoprice for PID 395 to 40000
+[7/8/2016 01:14:04] Setting protoprice for PID 396 to 28000
+[7/8/2016 01:14:04] Setting protoprice for PID 397 to 35000
+[7/8/2016 01:14:04] Setting protoprice for PID 398 to 360
+[7/8/2016 01:14:04] Setting protoprice for PID 399 to 2535
+[7/8/2016 01:14:04] Setting protoprice for PID 400 to 3070
+[7/8/2016 01:14:04] Setting protoprice for PID 401 to 4985
+[7/8/2016 01:14:04] Setting protoprice for PID 402 to 420
+[7/8/2016 01:14:04] Setting protoprice for PID 403 to 9000
+[7/8/2016 01:14:04] Setting protoprice for PID 404 to 550
+[7/8/2016 01:14:04] Setting protoprice for PID 405 to 3035
+[7/8/2016 01:14:04] Setting protoprice for PID 406 to 4000
+[7/8/2016 01:14:04] Setting protoprice for PID 407 to 3110
+[7/8/2016 01:14:04] Setting protoprice for PID 408 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 409 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 410 to 400
+[7/8/2016 01:14:04] Setting protoprice for PID 411 to 700
+[7/8/2016 01:14:04] Setting protoprice for PID 412 to 1500
+[7/8/2016 01:14:04] Setting protoprice for PID 413 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 414 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 415 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 416 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 417 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 418 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 419 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 420 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 421 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 422 to 500
+[7/8/2016 01:14:04] Setting protoprice for PID 423 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 424 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 425 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 426 to 125
+[7/8/2016 01:14:04] Setting protoprice for PID 427 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 428 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 429 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 430 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 431 to 500
+[7/8/2016 01:14:04] Setting protoprice for PID 432 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 433 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 434 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 435 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 436 to 2
+[7/8/2016 01:14:04] Setting protoprice for PID 437 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 438 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 439 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 440 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 441 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 442 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 443 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 444 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 445 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 446 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 447 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 448 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 449 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 450 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 451 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 452 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 453 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 454 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 455 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 456 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 457 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 458 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 459 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 460 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 461 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 462 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 463 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 464 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 465 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 466 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 467 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 468 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 469 to 150
+[7/8/2016 01:14:04] Setting protoprice for PID 470 to 20
+[7/8/2016 01:14:04] Setting protoprice for PID 471 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 472 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 473 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 474 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 475 to 25
+[7/8/2016 01:14:04] Setting protoprice for PID 476 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 477 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 478 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 479 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 480 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 481 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 482 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 483 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 484 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 485 to 750
+[7/8/2016 01:14:04] Setting protoprice for PID 486 to 150
+[7/8/2016 01:14:04] Setting protoprice for PID 487 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 488 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 489 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 490 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 491 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 492 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 493 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 494 to 1
+[7/8/2016 01:14:04] Setting protoprice for PID 495 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 496 to 250
+[7/8/2016 01:14:04] Setting protoprice for PID 497 to 300
+[7/8/2016 01:14:04] Setting protoprice for PID 498 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 499 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 500 to 5585
+[7/8/2016 01:14:04] Setting protoprice for PID 501 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 502 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 503 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 504 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 505 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 506 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 507 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 508 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 509 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 510 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 511 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 512 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 513 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 514 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 515 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 516 to 200
+[7/8/2016 01:14:04] Setting protoprice for PID 517 to 2000
+[7/8/2016 01:14:04] Setting protoprice for PID 518 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 519 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 520 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 521 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 522 to 1800
+[7/8/2016 01:14:04] Setting protoprice for PID 523 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 524 to 5
+[7/8/2016 01:14:04] Setting protoprice for PID 525 to 1500
+[7/8/2016 01:14:04] Setting protoprice for PID 526 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 527 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 528 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 529 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 530 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 531 to 0
+[7/8/2016 01:14:04] Setting protoprice for PID 532 to 10
+[7/8/2016 01:14:04] Setting protoprice for PID 533 to 35
+[7/8/2016 01:14:04] Setting protoprice for PID 534 to 3
+[7/8/2016 01:14:04] Setting protoprice for PID 535 to 80
+[7/8/2016 01:14:04] Setting protoprice for PID 536 to 50
+[7/8/2016 01:14:04] Setting protoprice for PID 537 to 40
+[7/8/2016 01:14:04] Setting protoprice for PID 538 to 5
+[7/8/2016 01:14:04] Creating economy event
+[7/8/2016 02:13:51] Running economy update cycle.
+[7/8/2016 02:13:51] Bank 0 ratio is 1410065408
+[7/8/2016 02:13:51] Bank 1 ratio is 1410065408
+[7/8/2016 02:13:51] Bank 2 ratio is 1410065408
+[7/8/2016 02:13:51] Bank 3 ratio is 1410065408
+[7/8/2016 02:13:51] Bank 4 ratio is 1410065408
+[7/8/2016 02:13:51] Bank 5 ratio is 1410065408
+[7/8/2016 03:13:51] Running economy update cycle.
+[7/8/2016 03:13:51] Bank 0 ratio is 1410065408
+[7/8/2016 03:13:51] Bank 1 ratio is 1410065408
+[7/8/2016 03:13:51] Bank 2 ratio is 1410065408
+[7/8/2016 03:13:51] Bank 3 ratio is 1410065408
+[7/8/2016 03:13:51] Bank 4 ratio is 1410065408
+[7/8/2016 03:13:51] Bank 5 ratio is 1410065408
+[7/8/2016 04:13:51] Running economy update cycle.
+[7/8/2016 04:13:51] Bank 0 ratio is 1410065408
+[7/8/2016 04:13:51] Bank 1 ratio is 1410065408
+[7/8/2016 04:13:51] Bank 2 ratio is 1410065408
+[7/8/2016 04:13:51] Bank 3 ratio is 1410065408
+[7/8/2016 04:13:51] Bank 4 ratio is 1410065408
+[7/8/2016 04:13:51] Bank 5 ratio is 1410065408
+[7/8/2016 05:07:41] Initializing economy...
+[7/8/2016 05:07:41] The bank in Vault City has $100000
+[7/8/2016 05:07:41] The bank in Redding has $100000
+[7/8/2016 05:07:41] The bank in Broken Hills has $100000
+[7/8/2016 05:07:41] The bank in San Francisco $100000
+[7/8/2016 05:07:41] The bank in NCR has $100000
+[7/8/2016 05:07:41] The bank in Hub has $100000
+[7/8/2016 05:07:41] Bank interest event already exists
+[7/8/2016 05:07:41] Economy event already exists
+[7/8/2016 05:19:36] Running economy update cycle.
+[7/8/2016 05:19:36] Bank 0 ratio is 1410065408
+[7/8/2016 05:19:36] Bank 1 ratio is 1410065408
+[7/8/2016 05:19:36] Bank 2 ratio is 1410065408
+[7/8/2016 05:19:36] Bank 3 ratio is 1410065408
+[7/8/2016 05:19:36] Bank 4 ratio is 1410065408
+[7/8/2016 05:19:36] Bank 5 ratio is 1410065408
+[28/12/2016 11:07:15] Initializing economy...
+[28/12/2016 11:07:15] The bank in Vault City has $100000
+[28/12/2016 11:07:15] The bank in Redding has $100000
+[28/12/2016 11:07:15] The bank in Broken Hills has $100000
+[28/12/2016 11:07:15] The bank in San Francisco $100000
+[28/12/2016 11:07:15] The bank in NCR has $100000
+[28/12/2016 11:07:15] The bank in Hub has $100000
+[28/12/2016 11:07:15] Bank interest event already exists
+[28/12/2016 11:07:15] Economy event already exists
+[28/12/2016 11:53:37] Running economy update cycle.
+[28/12/2016 11:53:37] Bank 0 ratio is 1410065408
+[28/12/2016 11:53:37] Bank 1 ratio is 1410065408
+[28/12/2016 11:53:37] Bank 2 ratio is 1410065408
+[28/12/2016 11:53:37] Bank 3 ratio is 1410065408
+[28/12/2016 11:53:37] Bank 4 ratio is 1410065408
+[28/12/2016 11:53:37] Bank 5 ratio is 1410065408
+[28/12/2016 12:27:18] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:27:27] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:28:00] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:28:43] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:28:50] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:28:55] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:29:00] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:29:07] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:29:37] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:41:29] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:41:34] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:41:38] Transfering $100000 to banks, from Butcher. Reason: unknown
+[28/12/2016 12:52:58] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:53:07] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:53:18] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:53:25] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:53:35] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:53:37] Running economy update cycle.
+[28/12/2016 12:53:37] Bank 0 ratio is 894861312
+[28/12/2016 12:53:37] Bank 1 ratio is -321703936
+[28/12/2016 12:53:37] Bank 2 ratio is -321306624
+[28/12/2016 12:53:37] Bank 3 ratio is -321306624
+[28/12/2016 12:53:37] Bank 4 ratio is -321703936
+[28/12/2016 12:53:37] Bank 5 ratio is -321306624
+[28/12/2016 12:53:37] Transferring 69166 from 0 to 1
+[28/12/2016 12:53:51] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:53:58] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:54:13] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:54:20] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:55:12] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:55:19] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 12:55:25] Transfering $100000 to banks, from Durr. Reason: unknown
+[28/12/2016 13:53:37] Running economy update cycle.
+[28/12/2016 13:53:37] Bank 0 ratio is 1349894144
+[28/12/2016 13:53:37] Bank 1 ratio is 1081626624
+[28/12/2016 13:53:37] Bank 2 ratio is -1538805760
+[28/12/2016 13:53:37] Bank 3 ratio is -1539608576
+[28/12/2016 13:53:37] Bank 4 ratio is -1540407296
+[28/12/2016 13:53:37] Bank 5 ratio is -1539608576
+[28/12/2016 13:53:37] Transferring 71541 from 0 to 4
+[28/12/2016 13:55:27] Transfering $1500 to banks, from Butcher. Reason: unknown
+[28/12/2016 13:55:32] Transfering $3000 to banks, from Butcher. Reason: unknown
+[28/12/2016 13:59:01] Transfering $1500 to banks, from Butcher. Reason: unknown
+[28/12/2016 13:59:08] Transfering $3000 to banks, from Butcher. Reason: unknown
+[28/12/2016 14:27:32] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:27:36] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:27:40] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:27:45] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:27:48] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:27:52] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:28:41] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:28:45] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:29:17] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:29:56] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:30:00] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:30:03] Transfering $100000 to banks, from Butchie. Reason: unknown
+[28/12/2016 14:53:37] Running economy update cycle.
+[28/12/2016 14:53:37] Bank 0 ratio is 1460879360
+[28/12/2016 14:53:37] Bank 1 ratio is -241614848
+[28/12/2016 14:53:37] Bank 2 ratio is 1430519808
+[28/12/2016 14:53:37] Bank 3 ratio is 1430519808
+[28/12/2016 14:53:37] Bank 4 ratio is -6905856
+[28/12/2016 14:53:37] Bank 5 ratio is 1430519808
+[28/12/2016 14:53:37] Transferring 78039 from 0 to 2
+[28/12/2016 15:14:52] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:14:58] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:05] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:13] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:20] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:31] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:46] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:50] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:15:55] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:18:03] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:18:09] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:18:14] Transfering $100000 to banks, from Khans Are Shit. Reason: unknown
+[28/12/2016 15:18:34] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:38] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:41] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:45] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:48] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:51] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:56] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:18:59] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:19:02] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:20:55] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:21:00] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:21:05] Transfering $100000 to banks, from Butch. Reason: unknown
+[28/12/2016 15:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 15:53:37] Running economy update cycle.
+[28/12/2016 15:53:37] Bank 0 ratio is -769753088
+[28/12/2016 15:53:37] Bank 1 ratio is 1037082624
+[28/12/2016 15:53:37] Bank 2 ratio is 1923588096
+[28/12/2016 15:53:37] Bank 3 ratio is -1584947200
+[28/12/2016 15:53:37] Bank 4 ratio is 1272184832
+[28/12/2016 15:53:37] Bank 5 ratio is -1586946048
+[28/12/2016 15:53:37] Transferring 94104 from 0 to 5
+[28/12/2016 16:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 16:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 16:53:37] Running economy update cycle.
+[28/12/2016 16:53:37] Bank 0 ratio is -1723432960
+[28/12/2016 16:53:37] Bank 1 ratio is 903880704
+[28/12/2016 16:53:37] Bank 2 ratio is 1790386176
+[28/12/2016 16:53:37] Bank 3 ratio is -1718149120
+[28/12/2016 16:53:37] Bank 4 ratio is 1138982912
+[28/12/2016 16:53:37] Bank 5 ratio is -899686400
+[28/12/2016 16:53:37] Transferring 89332 from 0 to 3
+[28/12/2016 17:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 17:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 17:53:37] Running economy update cycle.
+[28/12/2016 17:53:37] Bank 0 ratio is 2095071232
+[28/12/2016 17:53:37] Bank 1 ratio is 770686976
+[28/12/2016 17:53:37] Bank 2 ratio is 1657184256
+[28/12/2016 17:53:37] Bank 3 ratio is -1508081664
+[28/12/2016 17:53:37] Bank 4 ratio is 1005789184
+[28/12/2016 17:53:37] Bank 5 ratio is -1032888320
+[28/12/2016 17:53:37] Transferring 84799 from 0 to 1
+[28/12/2016 18:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 18:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 18:53:37] Running economy update cycle.
+[28/12/2016 18:53:37] Bank 0 ratio is 2071904256
+[28/12/2016 18:53:37] Bank 1 ratio is 527450112
+[28/12/2016 18:53:37] Bank 2 ratio is 1523990528
+[28/12/2016 18:53:37] Bank 3 ratio is -1641283584
+[28/12/2016 18:53:37] Bank 4 ratio is 872587264
+[28/12/2016 18:53:37] Bank 5 ratio is -1166082048
+[28/12/2016 18:53:37] Transferring 80492 from 0 to 4
+[28/12/2016 19:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 19:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 19:53:37] Running economy update cycle.
+[28/12/2016 19:53:37] Bank 0 ratio is -1815527424
+[28/12/2016 19:53:37] Bank 1 ratio is 394256384
+[28/12/2016 19:53:37] Bank 2 ratio is 1390788608
+[28/12/2016 19:53:37] Bank 3 ratio is -1774485504
+[28/12/2016 19:53:37] Bank 4 ratio is 198656000
+[28/12/2016 19:53:37] Bank 5 ratio is -1299283968
+[28/12/2016 19:53:37] Transferring 76401 from 0 to 2
+[28/12/2016 20:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 20:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 20:53:37] Running economy update cycle.
+[28/12/2016 20:53:37] Bank 0 ratio is -998883328
+[28/12/2016 20:53:37] Bank 1 ratio is 261054464
+[28/12/2016 20:53:37] Bank 2 ratio is 307748864
+[28/12/2016 20:53:37] Bank 3 ratio is -1907687424
+[28/12/2016 20:53:37] Bank 4 ratio is 65454080
+[28/12/2016 20:53:37] Bank 5 ratio is -1432485888
+[28/12/2016 20:53:37] Transferring 72515 from 0 to 3
+[28/12/2016 21:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 21:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 21:53:37] Running economy update cycle.
+[28/12/2016 21:53:37] Bank 0 ratio is 206340096
+[28/12/2016 21:53:37] Bank 1 ratio is 127852544
+[28/12/2016 21:53:37] Bank 2 ratio is 174546944
+[28/12/2016 21:53:37] Bank 3 ratio is 915652608
+[28/12/2016 21:53:37] Bank 4 ratio is -67747840
+[28/12/2016 21:53:37] Bank 5 ratio is -1565687808
+[28/12/2016 21:53:37] Transferring 68822 from 0 to 5
+[28/12/2016 22:00:00] Removing $4000 divided among all 6 banks
+[28/12/2016 22:30:00] Removing $4000 divided among all 6 banks
+[28/12/2016 22:53:37] Running economy update cycle.
+[28/12/2016 22:53:37] Bank 0 ratio is 1780883456
+[28/12/2016 22:53:37] Bank 1 ratio is -5349376
+[28/12/2016 22:53:37] Bank 2 ratio is 41345024
+[28/12/2016 22:53:37] Bank 3 ratio is 782450688
+[28/12/2016 22:53:37] Bank 4 ratio is -200949760
+[28/12/2016 22:53:37] Bank 5 ratio is 888348672
+[28/12/2016 22:53:37] Transferring 65314 from 0 to 4
+[28/12/2016 23:00:00] Removing $4000 divided among all 6 banks
+[29/12/2016 16:15:23] Running economy update cycle.
+[29/12/2016 16:15:23] Bank 0 ratio is -522149888
+[29/12/2016 16:15:23] Bank 1 ratio is -71950336
+[29/12/2016 16:15:23] Bank 2 ratio is -25247744
+[29/12/2016 16:15:23] Bank 3 ratio is 715849728
+[29/12/2016 16:15:23] Bank 4 ratio is 1968881664
+[29/12/2016 16:15:23] Bank 5 ratio is 821747712
+[29/12/2016 16:15:23] Transferring 65408 from 4 to 0
+[29/12/2016 16:15:23] Updating bank interest
+[29/12/2016 16:30:00] Removing $4000 divided among all 6 banks
+[29/12/2016 17:00:00] Removing $4000 divided among all 6 banks
+[29/12/2016 17:15:23] Running economy update cycle.
+[29/12/2016 17:15:23] Bank 0 ratio is 1590484992
+[29/12/2016 17:15:23] Bank 1 ratio is -205144064
+[29/12/2016 17:15:23] Bank 2 ratio is -158449664
+[29/12/2016 17:15:23] Bank 3 ratio is 582656000
+[29/12/2016 17:15:23] Bank 4 ratio is -410148864
+[29/12/2016 17:15:23] Bank 5 ratio is 688545792
+[29/12/2016 17:15:23] Transferring 65219 from 0 to 4
+[29/12/2016 17:30:00] Removing $4000 divided among all 6 banks
+[29/12/2016 18:00:00] Removing $4000 divided among all 6 banks
+[29/12/2016 18:15:23] Running economy update cycle.
+[29/12/2016 18:15:23] Bank 0 ratio is -769654784
+[29/12/2016 18:15:23] Bank 1 ratio is -338345984
+[29/12/2016 18:15:23] Bank 2 ratio is -291651584
+[29/12/2016 18:15:23] Bank 3 ratio is 449454080
+[29/12/2016 18:15:23] Bank 4 ratio is 1683578880
+[29/12/2016 18:15:23] Bank 5 ratio is 555352064
+[29/12/2016 18:15:23] Transferring 65266 from 4 to 0
+[29/12/2016 18:30:00] Removing $4000 divided among all 6 banks
+[29/12/2016 19:00:00] Removing $4000 divided among all 6 banks
+[29/12/2016 19:25:46] Initializing economy...
+[29/12/2016 19:25:46] The bank in Vault City has $1301778
+[29/12/2016 19:25:46] The bank in Redding has $1240825
+[29/12/2016 19:25:46] The bank in Broken Hills has $1241292
+[29/12/2016 19:25:46] The bank in San Francisco $1248703
+[29/12/2016 19:25:46] The bank in NCR has $1238728
+[29/12/2016 19:25:46] The bank in Hub has $1249762
+[29/12/2016 19:25:46] Bank interest event already exists
+[29/12/2016 19:25:46] Economy event already exists
+[29/12/2016 19:30:00] Removing $4000 divided among all 6 banks
+[29/12/2016 19:32:20] Running economy update cycle.
+[29/12/2016 19:32:20] Bank 0 ratio is 1262182400
+[29/12/2016 19:32:20] Bank 1 ratio is -538148864
+[29/12/2016 19:32:20] Bank 2 ratio is -491454464
+[29/12/2016 19:32:20] Bank 3 ratio is 249651200
+[29/12/2016 19:32:20] Bank 4 ratio is -747847680
+[29/12/2016 19:32:20] Bank 5 ratio is 355549184
+[29/12/2016 19:32:20] Transferring 65055 from 0 to 4
+[30/12/2016 11:56:46] Running economy update cycle.
+[30/12/2016 11:56:46] Bank 0 ratio is -948346880
+[30/12/2016 11:56:46] Bank 1 ratio is -538148864
+[30/12/2016 11:56:46] Bank 2 ratio is -491454464
+[30/12/2016 11:56:46] Bank 3 ratio is 249651200
+[30/12/2016 11:56:46] Bank 4 ratio is 1462681600
+[30/12/2016 11:56:46] Bank 5 ratio is 355549184
+[30/12/2016 11:56:46] Transferring 65155 from 4 to 0
+[30/12/2016 12:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 12:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 12:56:46] Running economy update cycle.
+[30/12/2016 12:56:46] Bank 0 ratio is 1138982912
+[30/12/2016 12:56:46] Bank 1 ratio is -671350784
+[30/12/2016 12:56:46] Bank 2 ratio is -624648192
+[30/12/2016 12:56:46] Bank 3 ratio is 116449280
+[30/12/2016 12:56:46] Bank 4 ratio is -891052032
+[30/12/2016 12:56:46] Bank 5 ratio is 222347264
+[30/12/2016 12:56:46] Transferring 64994 from 0 to 4
+[30/12/2016 13:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 13:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 13:56:46] Running economy update cycle.
+[30/12/2016 13:56:46] Bank 0 ratio is -1198653440
+[30/12/2016 13:56:46] Bank 1 ratio is -804544512
+[30/12/2016 13:56:46] Bank 2 ratio is -757850112
+[30/12/2016 13:56:46] Bank 3 ratio is -16744448
+[30/12/2016 13:56:46] Bank 4 ratio is 1180180480
+[30/12/2016 13:56:46] Bank 5 ratio is 89145344
+[30/12/2016 13:56:46] Transferring 65014 from 4 to 0
+[30/12/2016 14:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 14:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 14:56:46] Running economy update cycle.
+[30/12/2016 14:56:46] Bank 0 ratio is 874577920
+[30/12/2016 14:56:46] Bank 1 ratio is -937746432
+[30/12/2016 14:56:46] Bank 2 ratio is -891052032
+[30/12/2016 14:56:46] Bank 3 ratio is -149946368
+[30/12/2016 14:56:46] Bank 4 ratio is -1159454720
+[30/12/2016 14:56:46] Bank 5 ratio is -44048384
+[30/12/2016 14:56:46] Transferring 64861 from 0 to 4
+[30/12/2016 15:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 15:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 15:56:46] Running economy update cycle.
+[30/12/2016 15:56:46] Bank 0 ratio is -1449746432
+[30/12/2016 15:56:46] Bank 1 ratio is -1070948352
+[30/12/2016 15:56:46] Bank 2 ratio is -1024253952
+[30/12/2016 15:56:46] Bank 3 ratio is -283148288
+[30/12/2016 15:56:46] Bank 4 ratio is 898482176
+[30/12/2016 15:56:46] Bank 5 ratio is -177250304
+[30/12/2016 15:56:46] Transferring 64873 from 4 to 0
+[30/12/2016 16:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 16:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 16:32:20] Updating bank interest
+[30/12/2016 16:56:46] Running economy update cycle.
+[30/12/2016 16:56:46] Bank 0 ratio is 609378304
+[30/12/2016 16:56:46] Bank 1 ratio is -1204150272
+[30/12/2016 16:56:46] Bank 2 ratio is -1157447680
+[30/12/2016 16:56:46] Bank 3 ratio is -416350208
+[30/12/2016 16:56:46] Bank 4 ratio is -1427054592
+[30/12/2016 16:56:46] Bank 5 ratio is -310452224
+[30/12/2016 16:56:46] Transferring 64729 from 0 to 4
+[30/12/2016 17:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 17:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 17:56:46] Running economy update cycle.
+[30/12/2016 17:56:46] Bank 0 ratio is -1701748736
+[30/12/2016 17:56:46] Bank 1 ratio is -1337344000
+[30/12/2016 17:56:46] Bank 2 ratio is -1290649600
+[30/12/2016 17:56:46] Bank 3 ratio is -549543936
+[30/12/2016 17:56:46] Bank 4 ratio is 617684992
+[30/12/2016 17:56:46] Bank 5 ratio is -443654144
+[30/12/2016 17:56:46] Transferring 64733 from 4 to 0
+[30/12/2016 18:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 18:30:00] Removing $4000 divided among all 6 banks
+[30/12/2016 18:56:46] Running economy update cycle.
+[30/12/2016 18:56:46] Bank 0 ratio is 343384064
+[30/12/2016 18:56:46] Bank 1 ratio is -1470545920
+[30/12/2016 18:56:46] Bank 2 ratio is -1423851520
+[30/12/2016 18:56:46] Bank 3 ratio is -682745856
+[30/12/2016 18:56:46] Bank 4 ratio is -1693851648
+[30/12/2016 18:56:46] Bank 5 ratio is -576847872
+[30/12/2016 18:56:46] Transferring 64596 from 0 to 4
+[30/12/2016 19:00:00] Removing $4000 divided among all 6 banks
+[30/12/2016 20:08:10] Running economy update cycle.
+[30/12/2016 20:08:10] Bank 0 ratio is -1887854592
+[30/12/2016 20:08:10] Bank 1 ratio is -1537146880
+[30/12/2016 20:08:10] Bank 2 ratio is -1490452480
+[30/12/2016 20:08:10] Bank 3 ratio is -749346816
+[30/12/2016 20:08:10] Bank 4 ratio is 404185088
+[30/12/2016 20:08:10] Bank 5 ratio is -643448832
+[30/12/2016 20:08:10] Transferring 64626 from 4 to 0
+[22/3/2017 15:47:01] Initializing economy...
+[22/3/2017 15:47:01] The bank in Vault City has $1291288
+[22/3/2017 15:47:01] The bank in Redding has $1230169
+[22/3/2017 15:47:01] The bank in Broken Hills has $1230636
+[22/3/2017 15:47:01] The bank in San Francisco $1238047
+[22/3/2017 15:47:01] The bank in NCR has $1227906
+[22/3/2017 15:47:01] The bank in Hub has $1239106
+[22/3/2017 15:47:01] Bank interest event already exists
+[22/3/2017 15:47:01] Economy event already exists
+[22/3/2017 16:00:00] Removing $4000 divided among all 6 banks
+[22/3/2017 16:21:29] Initializing economy...
+[22/3/2017 16:21:29] The bank in Vault City has $1290622
+[22/3/2017 16:21:29] The bank in Redding has $1229503
+[22/3/2017 16:21:29] The bank in Broken Hills has $1229970
+[22/3/2017 16:21:29] The bank in San Francisco $1237381
+[22/3/2017 16:21:29] The bank in NCR has $1227240
+[22/3/2017 16:21:29] The bank in Hub has $1238440
+[22/3/2017 16:21:29] Bank interest event already exists
+[22/3/2017 16:21:30] Economy event already exists
+[22/3/2017 16:30:00] Removing $4000 divided among all 6 banks
+[5/9/2017 12:59:44] Initializing economy...
+[5/9/2017 12:59:45] The bank in Vault City has $100000
+[5/9/2017 12:59:45] The bank in Redding has $100000
+[5/9/2017 12:59:45] The bank in Broken Hills has $100000
+[5/9/2017 12:59:45] The bank in San Francisco $100000
+[5/9/2017 12:59:45] The bank in NCR has $100000
+[5/9/2017 12:59:45] The bank in Hub has $100000
+[5/9/2017 12:59:45] Creating bank interest event
+[5/9/2017 12:59:45] Setting item prices after proto.
+[5/9/2017 12:59:45] Setting protoprice for PID 1 to 610
+[5/9/2017 12:59:45] Setting protoprice for PID 2 to 2040
+[5/9/2017 12:59:45] Setting protoprice for PID 3 to 60000
+[5/9/2017 12:59:45] Setting protoprice for PID 4 to 23
+[5/9/2017 12:59:45] Setting protoprice for PID 5 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 6 to 60
+[5/9/2017 12:59:45] Setting protoprice for PID 7 to 70
+[5/9/2017 12:59:45] Setting protoprice for PID 8 to 170
+[5/9/2017 12:59:45] Setting protoprice for PID 9 to 1210
+[5/9/2017 12:59:45] Setting protoprice for PID 10 to 600
+[5/9/2017 12:59:45] Setting protoprice for PID 11 to 550
+[5/9/2017 12:59:45] Setting protoprice for PID 12 to 7025
+[5/9/2017 12:59:45] Setting protoprice for PID 13 to 2510
+[5/9/2017 12:59:45] Setting protoprice for PID 14 to 180
+[5/9/2017 12:59:45] Setting protoprice for PID 15 to 7030
+[5/9/2017 12:59:45] Setting protoprice for PID 16 to 220
+[5/9/2017 12:59:45] Setting protoprice for PID 17 to 10095
+[5/9/2017 12:59:45] Setting protoprice for PID 18 to 380
+[5/9/2017 12:59:45] Setting protoprice for PID 19 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 20 to 70
+[5/9/2017 12:59:45] Setting protoprice for PID 21 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 22 to 1535
+[5/9/2017 12:59:45] Setting protoprice for PID 23 to 2525
+[5/9/2017 12:59:45] Setting protoprice for PID 24 to 3490
+[5/9/2017 12:59:45] Setting protoprice for PID 25 to 104
+[5/9/2017 12:59:45] Setting protoprice for PID 26 to 201
+[5/9/2017 12:59:45] Setting protoprice for PID 27 to 150
+[5/9/2017 12:59:45] Setting protoprice for PID 28 to 30000
+[5/9/2017 12:59:45] Setting protoprice for PID 29 to 9
+[5/9/2017 12:59:45] Setting protoprice for PID 30 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 31 to 8
+[5/9/2017 12:59:45] Setting protoprice for PID 32 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 33 to 19
+[5/9/2017 12:59:45] Setting protoprice for PID 34 to 14
+[5/9/2017 12:59:45] Setting protoprice for PID 35 to 7
+[5/9/2017 12:59:45] Setting protoprice for PID 36 to 8
+[5/9/2017 12:59:45] Setting protoprice for PID 37 to 492
+[5/9/2017 12:59:45] Setting protoprice for PID 38 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 39 to 24
+[5/9/2017 12:59:45] Setting protoprice for PID 40 to 135
+[5/9/2017 12:59:45] Setting protoprice for PID 41 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 42 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 43 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 44 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 45 to 140
+[5/9/2017 12:59:45] Setting protoprice for PID 46 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 47 to 1000
+[5/9/2017 12:59:45] Setting protoprice for PID 48 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 49 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 50 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 51 to 1530
+[5/9/2017 12:59:45] Setting protoprice for PID 52 to 2500
+[5/9/2017 12:59:45] Setting protoprice for PID 53 to 400
+[5/9/2017 12:59:45] Setting protoprice for PID 54 to 1800
+[5/9/2017 12:59:45] Setting protoprice for PID 55 to 500
+[5/9/2017 12:59:45] Setting protoprice for PID 56 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 57 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 58 to 40
+[5/9/2017 12:59:45] Setting protoprice for PID 59 to 4500
+[5/9/2017 12:59:45] Setting protoprice for PID 60 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 61 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 62 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 63 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 64 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 65 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 66 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 67 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 68 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 69 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 70 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 71 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 72 to 35
+[5/9/2017 12:59:45] Setting protoprice for PID 73 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 74 to 250
+[5/9/2017 12:59:45] Setting protoprice for PID 75 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 76 to 1200
+[5/9/2017 12:59:45] Setting protoprice for PID 77 to 375
+[5/9/2017 12:59:45] Setting protoprice for PID 78 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 79 to 35
+[5/9/2017 12:59:45] Setting protoprice for PID 80 to 175
+[5/9/2017 12:59:45] Setting protoprice for PID 81 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 82 to 4
+[5/9/2017 12:59:45] Setting protoprice for PID 83 to 4
+[5/9/2017 12:59:45] Setting protoprice for PID 84 to 480
+[5/9/2017 12:59:45] Setting protoprice for PID 85 to 3060
+[5/9/2017 12:59:45] Setting protoprice for PID 86 to 1500
+[5/9/2017 12:59:45] Setting protoprice for PID 87 to 275
+[5/9/2017 12:59:45] Setting protoprice for PID 88 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 89 to 210
+[5/9/2017 12:59:45] Setting protoprice for PID 90 to 100
+[5/9/2017 12:59:45] Setting protoprice for PID 91 to 1000
+[5/9/2017 12:59:45] Setting protoprice for PID 92 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 93 to 150
+[5/9/2017 12:59:45] Setting protoprice for PID 94 to 240
+[5/9/2017 12:59:45] Setting protoprice for PID 95 to 9
+[5/9/2017 12:59:45] Setting protoprice for PID 96 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 97 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 98 to 40
+[5/9/2017 12:59:45] Setting protoprice for PID 99 to 400
+[5/9/2017 12:59:45] Setting protoprice for PID 100 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 101 to 100
+[5/9/2017 12:59:45] Setting protoprice for PID 102 to 425
+[5/9/2017 12:59:45] Setting protoprice for PID 103 to 8
+[5/9/2017 12:59:45] Setting protoprice for PID 104 to 80
+[5/9/2017 12:59:45] Setting protoprice for PID 105 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 106 to 3
+[5/9/2017 12:59:45] Setting protoprice for PID 107 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 108 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 109 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 110 to 700
+[5/9/2017 12:59:45] Setting protoprice for PID 111 to 9
+[5/9/2017 12:59:45] Setting protoprice for PID 112 to 130
+[5/9/2017 12:59:45] Setting protoprice for PID 113 to 90
+[5/9/2017 12:59:45] Setting protoprice for PID 114 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 115 to 3120
+[5/9/2017 12:59:45] Setting protoprice for PID 116 to 2550
+[5/9/2017 12:59:45] Setting protoprice for PID 117 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 118 to 4475
+[5/9/2017 12:59:45] Setting protoprice for PID 119 to 700
+[5/9/2017 12:59:45] Setting protoprice for PID 120 to 10000
+[5/9/2017 12:59:45] Setting protoprice for PID 121 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 122 to 70
+[5/9/2017 12:59:45] Setting protoprice for PID 123 to 1000
+[5/9/2017 12:59:45] Setting protoprice for PID 124 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 125 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 126 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 127 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 128 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 129 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 130 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 131 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 132 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 133 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 134 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 135 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 136 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 137 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 138 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 139 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 140 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 141 to 400
+[5/9/2017 12:59:45] Setting protoprice for PID 142 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 143 to 5005
+[5/9/2017 12:59:45] Setting protoprice for PID 144 to 260
+[5/9/2017 12:59:45] Setting protoprice for PID 145 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 146 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 147 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 148 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 149 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 150 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 151 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 152 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 153 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 154 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 155 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 156 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 157 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 158 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 159 to 60
+[5/9/2017 12:59:45] Setting protoprice for PID 160 to 540
+[5/9/2017 12:59:45] Setting protoprice for PID 161 to 120
+[5/9/2017 12:59:45] Setting protoprice for PID 162 to 220
+[5/9/2017 12:59:45] Setting protoprice for PID 163 to 4
+[5/9/2017 12:59:45] Setting protoprice for PID 164 to 70
+[5/9/2017 12:59:45] Setting protoprice for PID 165 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 166 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 167 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 168 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 169 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 170 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 171 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 172 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 173 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 174 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 175 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 176 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 177 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 178 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 179 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 180 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 181 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 182 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 183 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 184 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 185 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 186 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 187 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 188 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 189 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 190 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 191 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 192 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 193 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 194 to 75
+[5/9/2017 12:59:45] Setting protoprice for PID 195 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 196 to 125
+[5/9/2017 12:59:45] Setting protoprice for PID 197 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 198 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 199 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 200 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 201 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 202 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 203 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 204 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 205 to 60
+[5/9/2017 12:59:45] Setting protoprice for PID 206 to 500
+[5/9/2017 12:59:45] Setting protoprice for PID 207 to 650
+[5/9/2017 12:59:45] Setting protoprice for PID 208 to 800
+[5/9/2017 12:59:45] Setting protoprice for PID 209 to 850
+[5/9/2017 12:59:45] Setting protoprice for PID 210 to 1800
+[5/9/2017 12:59:45] Setting protoprice for PID 211 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 212 to 600
+[5/9/2017 12:59:45] Setting protoprice for PID 213 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 214 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 215 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 216 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 217 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 218 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 219 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 220 to 100
+[5/9/2017 12:59:45] Setting protoprice for PID 221 to 40
+[5/9/2017 12:59:45] Setting protoprice for PID 222 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 223 to 40
+[5/9/2017 12:59:45] Setting protoprice for PID 224 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 225 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 226 to 15
+[5/9/2017 12:59:45] Setting protoprice for PID 227 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 228 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 229 to 150
+[5/9/2017 12:59:45] Setting protoprice for PID 230 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 231 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 232 to 70000
+[5/9/2017 12:59:45] Setting protoprice for PID 233 to 10090
+[5/9/2017 12:59:45] Setting protoprice for PID 234 to 240
+[5/9/2017 12:59:45] Setting protoprice for PID 235 to 1595
+[5/9/2017 12:59:45] Setting protoprice for PID 236 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 237 to 100
+[5/9/2017 12:59:45] Setting protoprice for PID 238 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 239 to 15015
+[5/9/2017 12:59:45] Setting protoprice for PID 240 to 5045
+[5/9/2017 12:59:45] Setting protoprice for PID 241 to 2230
+[5/9/2017 12:59:45] Setting protoprice for PID 242 to 2555
+[5/9/2017 12:59:45] Setting protoprice for PID 243 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 244 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 245 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 246 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 247 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 248 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 249 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 250 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 251 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 252 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 253 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 254 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 255 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 256 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 257 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 258 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 259 to 350
+[5/9/2017 12:59:45] Setting protoprice for PID 260 to 5000
+[5/9/2017 12:59:45] Setting protoprice for PID 261 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 262 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 263 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 264 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 265 to 800
+[5/9/2017 12:59:45] Setting protoprice for PID 266 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 267 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 268 to 4070
+[5/9/2017 12:59:45] Setting protoprice for PID 269 to 100
+[5/9/2017 12:59:45] Setting protoprice for PID 270 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 271 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 272 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 273 to 80
+[5/9/2017 12:59:45] Setting protoprice for PID 274 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 275 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 276 to 120
+[5/9/2017 12:59:45] Setting protoprice for PID 277 to 250
+[5/9/2017 12:59:45] Setting protoprice for PID 278 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 279 to 800
+[5/9/2017 12:59:45] Setting protoprice for PID 280 to 90
+[5/9/2017 12:59:45] Setting protoprice for PID 281 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 282 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 283 to 750
+[5/9/2017 12:59:45] Setting protoprice for PID 284 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 285 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 286 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 287 to 820
+[5/9/2017 12:59:45] Setting protoprice for PID 288 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 289 to 70
+[5/9/2017 12:59:45] Setting protoprice for PID 290 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 291 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 292 to 250
+[5/9/2017 12:59:45] Setting protoprice for PID 293 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 294 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 295 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 296 to 6010
+[5/9/2017 12:59:45] Setting protoprice for PID 297 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 298 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 299 to 15
+[5/9/2017 12:59:45] Setting protoprice for PID 300 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 301 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 302 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 303 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 304 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 305 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 306 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 307 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 308 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 309 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 310 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 311 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 312 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 313 to 310
+[5/9/2017 12:59:45] Setting protoprice for PID 314 to 2
+[5/9/2017 12:59:45] Setting protoprice for PID 315 to 2
+[5/9/2017 12:59:45] Setting protoprice for PID 316 to 2
+[5/9/2017 12:59:45] Setting protoprice for PID 317 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 318 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 319 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 320 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 321 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 322 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 323 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 324 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 325 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 326 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 327 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 328 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 329 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 330 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 331 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 332 to 1060
+[5/9/2017 12:59:45] Setting protoprice for PID 333 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 334 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 335 to 35
+[5/9/2017 12:59:45] Setting protoprice for PID 336 to 35
+[5/9/2017 12:59:45] Setting protoprice for PID 337 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 338 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 339 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 340 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 341 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 342 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 343 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 344 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 345 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 348 to 90000
+[5/9/2017 12:59:45] Setting protoprice for PID 349 to 110000
+[5/9/2017 12:59:45] Setting protoprice for PID 350 to 20000
+[5/9/2017 12:59:45] Setting protoprice for PID 351 to 3340
+[5/9/2017 12:59:45] Setting protoprice for PID 352 to 13000
+[5/9/2017 12:59:45] Setting protoprice for PID 353 to 6095
+[5/9/2017 12:59:45] Setting protoprice for PID 354 to 5075
+[5/9/2017 12:59:45] Setting protoprice for PID 355 to 6975
+[5/9/2017 12:59:45] Setting protoprice for PID 356 to 3000
+[5/9/2017 12:59:45] Setting protoprice for PID 357 to 6
+[5/9/2017 12:59:45] Setting protoprice for PID 358 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 359 to 30
+[5/9/2017 12:59:45] Setting protoprice for PID 360 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 361 to 8
+[5/9/2017 12:59:45] Setting protoprice for PID 362 to 14
+[5/9/2017 12:59:45] Setting protoprice for PID 363 to 12
+[5/9/2017 12:59:45] Setting protoprice for PID 364 to 500
+[5/9/2017 12:59:45] Setting protoprice for PID 365 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 366 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 367 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 368 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 369 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 370 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 371 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 372 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 373 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 377 to 100
+[5/9/2017 12:59:45] Setting protoprice for PID 378 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 379 to 910
+[5/9/2017 12:59:45] Setting protoprice for PID 380 to 2550
+[5/9/2017 12:59:45] Setting protoprice for PID 381 to 10750
+[5/9/2017 12:59:45] Setting protoprice for PID 382 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 383 to 2
+[5/9/2017 12:59:45] Setting protoprice for PID 384 to 400
+[5/9/2017 12:59:45] Setting protoprice for PID 385 to 240
+[5/9/2017 12:59:45] Setting protoprice for PID 386 to 5000
+[5/9/2017 12:59:45] Setting protoprice for PID 387 to 5990
+[5/9/2017 12:59:45] Setting protoprice for PID 388 to 2600
+[5/9/2017 12:59:45] Setting protoprice for PID 389 to 10085
+[5/9/2017 12:59:45] Setting protoprice for PID 390 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 391 to 17000
+[5/9/2017 12:59:45] Setting protoprice for PID 392 to 48000
+[5/9/2017 12:59:45] Setting protoprice for PID 393 to 7500
+[5/9/2017 12:59:45] Setting protoprice for PID 394 to 30000
+[5/9/2017 12:59:45] Setting protoprice for PID 395 to 40000
+[5/9/2017 12:59:45] Setting protoprice for PID 396 to 28000
+[5/9/2017 12:59:45] Setting protoprice for PID 397 to 35000
+[5/9/2017 12:59:45] Setting protoprice for PID 398 to 360
+[5/9/2017 12:59:45] Setting protoprice for PID 399 to 2535
+[5/9/2017 12:59:45] Setting protoprice for PID 400 to 3070
+[5/9/2017 12:59:45] Setting protoprice for PID 401 to 4985
+[5/9/2017 12:59:45] Setting protoprice for PID 402 to 420
+[5/9/2017 12:59:45] Setting protoprice for PID 403 to 9000
+[5/9/2017 12:59:45] Setting protoprice for PID 404 to 550
+[5/9/2017 12:59:45] Setting protoprice for PID 405 to 3035
+[5/9/2017 12:59:45] Setting protoprice for PID 406 to 4000
+[5/9/2017 12:59:45] Setting protoprice for PID 407 to 3110
+[5/9/2017 12:59:45] Setting protoprice for PID 408 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 409 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 410 to 400
+[5/9/2017 12:59:45] Setting protoprice for PID 411 to 700
+[5/9/2017 12:59:45] Setting protoprice for PID 412 to 1500
+[5/9/2017 12:59:45] Setting protoprice for PID 413 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 414 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 415 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 416 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 417 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 418 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 419 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 420 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 421 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 422 to 500
+[5/9/2017 12:59:45] Setting protoprice for PID 423 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 424 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 425 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 426 to 125
+[5/9/2017 12:59:45] Setting protoprice for PID 427 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 428 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 429 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 430 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 431 to 500
+[5/9/2017 12:59:45] Setting protoprice for PID 432 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 433 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 434 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 435 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 436 to 2
+[5/9/2017 12:59:45] Setting protoprice for PID 437 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 438 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 439 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 440 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 441 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 442 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 443 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 444 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 445 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 446 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 447 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 448 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 449 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 450 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 451 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 452 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 453 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 454 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 455 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 456 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 457 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 458 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 459 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 460 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 461 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 462 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 463 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 464 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 465 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 466 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 467 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 468 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 469 to 150
+[5/9/2017 12:59:45] Setting protoprice for PID 470 to 20
+[5/9/2017 12:59:45] Setting protoprice for PID 471 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 472 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 473 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 474 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 475 to 25
+[5/9/2017 12:59:45] Setting protoprice for PID 476 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 477 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 478 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 479 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 480 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 481 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 482 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 483 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 484 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 485 to 750
+[5/9/2017 12:59:45] Setting protoprice for PID 486 to 150
+[5/9/2017 12:59:45] Setting protoprice for PID 487 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 488 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 489 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 490 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 491 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 492 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 493 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 494 to 1
+[5/9/2017 12:59:45] Setting protoprice for PID 495 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 496 to 250
+[5/9/2017 12:59:45] Setting protoprice for PID 497 to 300
+[5/9/2017 12:59:45] Setting protoprice for PID 498 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 499 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 500 to 5585
+[5/9/2017 12:59:45] Setting protoprice for PID 501 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 502 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 503 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 504 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 505 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 506 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 507 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 508 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 509 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 510 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 511 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 512 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 513 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 514 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 515 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 516 to 200
+[5/9/2017 12:59:45] Setting protoprice for PID 517 to 2000
+[5/9/2017 12:59:45] Setting protoprice for PID 518 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 519 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 520 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 521 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 522 to 1800
+[5/9/2017 12:59:45] Setting protoprice for PID 523 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 524 to 5
+[5/9/2017 12:59:45] Setting protoprice for PID 525 to 1500
+[5/9/2017 12:59:45] Setting protoprice for PID 526 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 527 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 528 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 529 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 530 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 531 to 0
+[5/9/2017 12:59:45] Setting protoprice for PID 532 to 10
+[5/9/2017 12:59:45] Setting protoprice for PID 533 to 35
+[5/9/2017 12:59:45] Setting protoprice for PID 534 to 3
+[5/9/2017 12:59:45] Setting protoprice for PID 535 to 80
+[5/9/2017 12:59:45] Setting protoprice for PID 536 to 50
+[5/9/2017 12:59:45] Setting protoprice for PID 537 to 40
+[5/9/2017 12:59:45] Setting protoprice for PID 538 to 5
+[5/9/2017 12:59:45] Creating economy event
+[5/9/2017 13:49:16] Initializing economy...
+[5/9/2017 13:49:16] The bank in Vault City has $100000
+[5/9/2017 13:49:16] The bank in Redding has $100000
+[5/9/2017 13:49:16] The bank in Broken Hills has $100000
+[5/9/2017 13:49:16] The bank in San Francisco $100000
+[5/9/2017 13:49:16] The bank in NCR has $100000
+[5/9/2017 13:49:16] The bank in Hub has $100000
+[5/9/2017 13:49:16] Bank interest event already exists
+[5/9/2017 13:49:16] Economy event already exists
+[5/9/2017 13:52:08] Initializing economy...
+[5/9/2017 13:52:08] The bank in Vault City has $100000
+[5/9/2017 13:52:08] The bank in Redding has $100000
+[5/9/2017 13:52:08] The bank in Broken Hills has $100000
+[5/9/2017 13:52:08] The bank in San Francisco $100000
+[5/9/2017 13:52:08] The bank in NCR has $100000
+[5/9/2017 13:52:08] The bank in Hub has $100000
+[5/9/2017 13:52:08] Bank interest event already exists
+[5/9/2017 13:52:08] Economy event already exists
+[5/9/2017 15:29:16] Initializing economy...
+[5/9/2017 15:29:16] The bank in Vault City has $100000
+[5/9/2017 15:29:16] The bank in Redding has $100000
+[5/9/2017 15:29:16] The bank in Broken Hills has $100000
+[5/9/2017 15:29:16] The bank in San Francisco $100000
+[5/9/2017 15:29:16] The bank in NCR has $100000
+[5/9/2017 15:29:16] The bank in Hub has $100000
+[5/9/2017 15:29:16] Bank interest event already exists
+[5/9/2017 15:29:16] Economy event already exists
+[5/9/2017 16:05:26] Running economy update cycle.
+[5/9/2017 16:05:26] Bank 0 ratio is 1410065408
+[5/9/2017 16:05:26] Bank 1 ratio is 1410065408
+[5/9/2017 16:05:26] Bank 2 ratio is 1410065408
+[5/9/2017 16:05:26] Bank 3 ratio is 1410065408
+[5/9/2017 16:05:26] Bank 4 ratio is 1410065408
+[5/9/2017 16:05:26] Bank 5 ratio is 1410065408
+[5/9/2017 17:05:26] Running economy update cycle.
+[5/9/2017 17:05:26] Bank 0 ratio is 1410065408
+[5/9/2017 17:05:26] Bank 1 ratio is 1410065408
+[5/9/2017 17:05:26] Bank 2 ratio is 1410065408
+[5/9/2017 17:05:26] Bank 3 ratio is 1410065408
+[5/9/2017 17:05:26] Bank 4 ratio is 1410065408
+[5/9/2017 17:05:26] Bank 5 ratio is 1410065408
+[5/9/2017 18:09:07] Initializing economy...
+[5/9/2017 18:09:07] The bank in Vault City has $100000
+[5/9/2017 18:09:07] The bank in Redding has $100000
+[5/9/2017 18:09:07] The bank in Broken Hills has $100000
+[5/9/2017 18:09:07] The bank in San Francisco $100000
+[5/9/2017 18:09:07] The bank in NCR has $100000
+[5/9/2017 18:09:07] The bank in Hub has $100000
+[5/9/2017 18:09:07] Bank interest event already exists
+[5/9/2017 18:09:07] Economy event already exists
+[5/9/2017 19:00:09] Running economy update cycle.
+[5/9/2017 19:00:09] Bank 0 ratio is 1410065408
+[5/9/2017 19:00:09] Bank 1 ratio is 1410065408
+[5/9/2017 19:00:09] Bank 2 ratio is 1410065408
+[5/9/2017 19:00:09] Bank 3 ratio is 1410065408
+[5/9/2017 19:00:09] Bank 4 ratio is 1410065408
+[5/9/2017 19:00:09] Bank 5 ratio is 1410065408
+[5/9/2017 19:14:23] Initializing economy...
+[5/9/2017 19:14:23] The bank in Vault City has $100000
+[5/9/2017 19:14:23] The bank in Redding has $100000
+[5/9/2017 19:14:23] The bank in Broken Hills has $100000
+[5/9/2017 19:14:23] The bank in San Francisco $100000
+[5/9/2017 19:14:23] The bank in NCR has $100000
+[5/9/2017 19:14:23] The bank in Hub has $100000
+[5/9/2017 19:14:23] Bank interest event already exists
+[5/9/2017 19:14:23] Economy event already exists
+[5/9/2017 19:40:32] Initializing economy...
+[5/9/2017 19:40:32] The bank in Vault City has $100000
+[5/9/2017 19:40:32] The bank in Redding has $100000
+[5/9/2017 19:40:32] The bank in Broken Hills has $100000
+[5/9/2017 19:40:32] The bank in San Francisco $100000
+[5/9/2017 19:40:32] The bank in NCR has $100000
+[5/9/2017 19:40:32] The bank in Hub has $100000
+[5/9/2017 19:40:32] Bank interest event already exists
+[5/9/2017 19:40:32] Economy event already exists
+[5/9/2017 20:02:11] Initializing economy...
+[5/9/2017 20:02:11] The bank in Vault City has $100000
+[5/9/2017 20:02:11] The bank in Redding has $100000
+[5/9/2017 20:02:11] The bank in Broken Hills has $100000
+[5/9/2017 20:02:11] The bank in San Francisco $100000
+[5/9/2017 20:02:11] The bank in NCR has $100000
+[5/9/2017 20:02:11] The bank in Hub has $100000
+[5/9/2017 20:02:11] Bank interest event already exists
+[5/9/2017 20:02:11] Economy event already exists
+[5/9/2017 20:30:45] Initializing economy...
+[5/9/2017 20:30:45] The bank in Vault City has $100000
+[5/9/2017 20:30:45] The bank in Redding has $100000
+[5/9/2017 20:30:45] The bank in Broken Hills has $100000
+[5/9/2017 20:30:45] The bank in San Francisco $100000
+[5/9/2017 20:30:45] The bank in NCR has $100000
+[5/9/2017 20:30:45] The bank in Hub has $100000
+[5/9/2017 20:30:45] Bank interest event already exists
+[5/9/2017 20:30:45] Economy event already exists

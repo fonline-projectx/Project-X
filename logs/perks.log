@@ -1,0 +1,178 @@
+[7/8/2016 02:27:42] Butcher(1) changing perk 301 value: 0 -> 1
+[7/8/2016 02:37:15] Butcher(1) changing perk 309 value: 0 -> 1
+[7/8/2016 02:52:32] Butcher(1) changing perk 438 value: 0 -> 1
+[7/8/2016 02:58:49] Chain(2) changing perk 301 value: 0 -> 1
+[7/8/2016 02:59:32] Chain(2) changing perk 313 value: 0 -> 1
+[7/8/2016 03:00:05] Chain(2) changing perk 438 value: 0 -> 1
+[7/8/2016 03:02:26] Kilgore(3) changing perk 301 value: 0 -> 1
+[7/8/2016 03:02:53] Kilgore(3) changing perk 309 value: 0 -> 1
+[7/8/2016 03:03:08] Kilgore(3) changing perk 424 value: 0 -> 1
+[7/8/2016 03:03:33] Kilgore(3) changing perk 329 value: 0 -> 1
+[7/8/2016 03:03:49] Kilgore(3) changing perk 322 value: 0 -> 1
+[7/8/2016 03:04:10] Kilgore(3) changing perk 306 value: 0 -> 1
+[7/8/2016 03:04:29] Kilgore(3) changing perk 329 value: 1 -> 2
+[7/8/2016 03:24:05] Kilgore(3) changing perk 432 value: 0 -> 2
+[7/8/2016 03:24:42] Kilgore(3) changing perk 434 value: 0 -> 2
+[7/8/2016 03:25:13] Kilgore(3) changing perk 433 value: 0 -> 2
+[7/8/2016 03:26:23] Kilgore(3) changing perk 435 value: 0 -> 2
+[7/8/2016 03:26:43] Kilgore(3) changing perk 436 value: 0 -> 2
+[7/8/2016 03:27:46] Kilgore(3) changing perk 462 value: 0 -> 4
+[7/8/2016 03:28:13] Kilgore(3) changing perk 463 value: 0 -> 2
+[7/8/2016 03:29:09] Kilgore(3) changing perk 464 value: 0 -> 2
+[7/8/2016 03:29:27] Kilgore(3) changing perk 465 value: 0 -> 2
+[7/8/2016 03:29:49] Kilgore(3) changing perk 466 value: 0 -> 2
+[7/8/2016 03:29:52] Kilgore(3) changing perk 467 value: 0 -> 2
+[7/8/2016 03:29:56] Kilgore(3) changing perk 468 value: 0 -> 2
+[7/8/2016 03:29:59] Kilgore(3) changing perk 469 value: 0 -> 2
+[7/8/2016 03:41:53] Herpy(4) changing perk 301 value: 0 -> 1
+[7/8/2016 03:43:01] Herpy(4) changing perk 432 value: 0 -> 2
+[7/8/2016 03:43:11] Herpy(4) changing perk 433 value: 0 -> 2
+[7/8/2016 03:43:27] Herpy(4) changing perk 434 value: 0 -> 2
+[7/8/2016 03:43:33] Herpy(4) changing perk 435 value: 0 -> 2
+[7/8/2016 03:44:03] Herpy(4) changing perk 462 value: 0 -> 2
+[7/8/2016 03:45:00] Herpy(4) changing perk 463 value: 0 -> 2
+[7/8/2016 03:45:15] Herpy(4) changing perk 464 value: 0 -> 2
+[7/8/2016 03:45:19] Herpy(4) changing perk 465 value: 0 -> 2
+[7/8/2016 03:45:22] Herpy(4) changing perk 466 value: 0 -> 2
+[7/8/2016 03:45:25] Herpy(4) changing perk 467 value: 0 -> 2
+[7/8/2016 03:45:28] Herpy(4) changing perk 468 value: 0 -> 2
+[7/8/2016 03:45:31] Herpy(4) changing perk 469 value: 0 -> 2
+[7/8/2016 03:45:35] Herpy(4) changing perk 309 value: 0 -> 1
+[7/8/2016 03:46:14] Herpy(4) changing perk 424 value: 0 -> 1
+[7/8/2016 03:46:49] Herpy(4) changing perk 329 value: 0 -> 1
+[7/8/2016 03:47:03] Herpy(4) changing perk 329 value: 1 -> 2
+[7/8/2016 03:47:26] Herpy(4) changing perk 322 value: 0 -> 1
+[7/8/2016 03:47:38] Herpy(4) changing perk 306 value: 0 -> 1
+[7/8/2016 03:48:20] Herpy(4) changing perk 425 value: 0 -> 1
+[28/12/2016 11:15:46] Durr(5) changing perk 301 value: 0 -> 1
+[28/12/2016 11:28:14] Butcher(6) changing perk 301 value: 0 -> 1
+[28/12/2016 11:43:30] Butcher(6) changing perk 309 value: 0 -> 1
+[28/12/2016 11:46:48] Butcher(6) changing perk 402 value: 0 -> 1
+[28/12/2016 11:47:13] Butcher(6) changing perk 424 value: 0 -> 1
+[28/12/2016 11:47:36] Butcher(6) changing perk 402 value: 1 -> 2
+[28/12/2016 11:48:07] Butcher(6) changing perk 329 value: 0 -> 1
+[28/12/2016 11:48:35] Butcher(6) changing perk 306 value: 0 -> 1
+[28/12/2016 11:51:40] Buncher(7) changing perk 301 value: 0 -> 1
+[28/12/2016 11:57:12] Hurr(8) changing perk 301 value: 0 -> 1
+[28/12/2016 11:58:31] Butcher(9) changing perk 301 value: 0 -> 1
+[28/12/2016 12:02:23] Durr(10) changing perk 301 value: 0 -> 1
+[28/12/2016 12:08:45] Butcher(9) changing perk 309 value: 0 -> 1
+[28/12/2016 12:09:36] Butcher(9) changing perk 424 value: 0 -> 1
+[28/12/2016 12:10:41] Butcher(9) changing perk 305 value: 0 -> 1
+[28/12/2016 12:11:19] Butcher(9) changing perk 305 value: 1 -> 2
+[28/12/2016 12:12:04] Butcher(9) changing perk 329 value: 0 -> 1
+[28/12/2016 12:12:30] Butcher(9) changing perk 306 value: 0 -> 1
+[28/12/2016 12:14:40] Butcher(9) changing perk 428 value: 0 -> 1
+[28/12/2016 12:15:41] Butcher(9) changing perk 445 value: 0 -> 1
+[28/12/2016 12:17:31] Hurr(11) changing perk 301 value: 0 -> 1
+[28/12/2016 12:23:05] Butcher(9) changing perk 314 value: 0 -> 1
+[28/12/2016 12:24:43] Butcher(9) changing perk 401 value: 0 -> 1
+[28/12/2016 12:27:18] Butcher(9) changing perk 469 value: 0 -> 1
+[28/12/2016 12:27:27] Butcher(9) changing perk 468 value: 0 -> 1
+[28/12/2016 12:28:00] Butcher(9) changing perk 467 value: 0 -> 1
+[28/12/2016 12:28:37] Hurr(11) changing perk 403 value: 0 -> 1
+[28/12/2016 12:28:43] Butcher(9) changing perk 432 value: 0 -> 1
+[28/12/2016 12:28:50] Butcher(9) changing perk 434 value: 0 -> 1
+[28/12/2016 12:28:55] Butcher(9) changing perk 462 value: 0 -> 1
+[28/12/2016 12:29:00] Butcher(9) changing perk 463 value: 0 -> 1
+[28/12/2016 12:29:07] Butcher(9) changing perk 464 value: 0 -> 1
+[28/12/2016 12:29:26] Hurr(11) changing perk 313 value: 0 -> 1
+[28/12/2016 12:29:37] Butcher(9) changing perk 466 value: 0 -> 1
+[28/12/2016 12:30:22] Hurr(11) changing perk 309 value: 0 -> 1
+[28/12/2016 12:32:14] Durr(12) changing perk 301 value: 0 -> 1
+[28/12/2016 12:41:29] Butcher(9) changing perk 433 value: 0 -> 1
+[28/12/2016 12:41:34] Butcher(9) changing perk 435 value: 0 -> 1
+[28/12/2016 12:41:38] Butcher(9) changing perk 462 value: 1 -> 2
+[28/12/2016 12:43:33] Durr(12) changing perk 309 value: 0 -> 1
+[28/12/2016 12:44:50] Durr(12) changing perk 424 value: 0 -> 1
+[28/12/2016 12:45:13] Durr(12) changing perk 402 value: 0 -> 1
+[28/12/2016 12:47:12] Durr(12) changing perk 329 value: 0 -> 1
+[28/12/2016 12:48:11] Durr(12) changing perk 402 value: 1 -> 2
+[28/12/2016 12:49:07] Durr(12) changing perk 329 value: 1 -> 2
+[28/12/2016 12:49:46] Durr(12) changing perk 306 value: 0 -> 1
+[28/12/2016 12:50:26] Durr(12) changing perk 438 value: 0 -> 1
+[28/12/2016 12:52:59] Durr(12) changing perk 469 value: 0 -> 1
+[28/12/2016 12:53:07] Durr(12) changing perk 468 value: 0 -> 1
+[28/12/2016 12:53:18] Durr(12) changing perk 467 value: 0 -> 1
+[28/12/2016 12:53:25] Durr(12) changing perk 466 value: 0 -> 1
+[28/12/2016 12:53:35] Durr(12) changing perk 464 value: 0 -> 1
+[28/12/2016 12:53:51] Durr(12) changing perk 463 value: 0 -> 1
+[28/12/2016 12:53:58] Durr(12) changing perk 462 value: 0 -> 1
+[28/12/2016 12:54:13] Durr(12) changing perk 434 value: 0 -> 1
+[28/12/2016 12:54:20] Durr(12) changing perk 432 value: 0 -> 1
+[28/12/2016 12:55:12] Durr(12) changing perk 462 value: 1 -> 2
+[28/12/2016 12:55:19] Durr(12) changing perk 435 value: 0 -> 1
+[28/12/2016 12:55:25] Durr(12) changing perk 433 value: 0 -> 1
+[28/12/2016 13:55:08] Butcher(9) changing perk 456 value: 0 -> 1
+[28/12/2016 13:55:27] Butcher(9) changing perk 355 value: 0 -> 1
+[28/12/2016 13:55:32] Butcher(9) changing perk 355 value: 1 -> 2
+[28/12/2016 13:56:01] Durr(12) changing perk 314 value: 0 -> 1
+[28/12/2016 13:59:01] Butcher(9) changing perk 356 value: 0 -> 1
+[28/12/2016 13:59:08] Butcher(9) changing perk 356 value: 1 -> 2
+[28/12/2016 14:13:47] Khans Are Shit(13) changing perk 301 value: 0 -> 1
+[28/12/2016 14:18:26] Butchie(14) changing perk 301 value: 0 -> 1
+[28/12/2016 14:18:31] Khans Are Shit(13) changing perk 380 value: 0 -> 1
+[28/12/2016 14:19:51] Khans Are Shit(13) changing perk 424 value: 0 -> 1
+[28/12/2016 14:21:20] Butchie(14) changing perk 309 value: 0 -> 1
+[28/12/2016 14:21:27] Khans Are Shit(13) changing perk 438 value: 0 -> 1
+[28/12/2016 14:22:30] Butchie(14) changing perk 349 value: 0 -> 1
+[28/12/2016 14:22:49] Khans Are Shit(13) changing perk 322 value: 0 -> 1
+[28/12/2016 14:22:59] Butchie(14) changing perk 424 value: 0 -> 1
+[28/12/2016 14:23:30] Butchie(14) changing perk 405 value: 0 -> 1
+[28/12/2016 14:23:53] Butchie(14) changing perk 380 value: 0 -> 1
+[28/12/2016 14:23:55] Khans Are Shit(13) changing perk 309 value: 0 -> 1
+[28/12/2016 14:24:12] Butchie(14) changing perk 306 value: 0 -> 1
+[28/12/2016 14:24:30] Khans Are Shit(13) changing perk 306 value: 0 -> 1
+[28/12/2016 14:24:49] Butchie(14) changing perk 438 value: 0 -> 1
+[28/12/2016 14:25:12] Butchie(14) changing perk 329 value: 0 -> 1
+[28/12/2016 14:25:46] Khans Are Shit(13) changing perk 428 value: 0 -> 1
+[28/12/2016 14:26:54] Khans Are Shit(13) changing perk 423 value: 0 -> 1
+[28/12/2016 14:27:32] Butchie(14) changing perk 463 value: 0 -> 1
+[28/12/2016 14:27:36] Butchie(14) changing perk 464 value: 0 -> 1
+[28/12/2016 14:27:40] Butchie(14) changing perk 466 value: 0 -> 1
+[28/12/2016 14:27:45] Butchie(14) changing perk 467 value: 0 -> 1
+[28/12/2016 14:27:48] Butchie(14) changing perk 468 value: 0 -> 1
+[28/12/2016 14:27:52] Butchie(14) changing perk 469 value: 0 -> 1
+[28/12/2016 14:28:41] Butchie(14) changing perk 432 value: 0 -> 1
+[28/12/2016 14:28:45] Butchie(14) changing perk 434 value: 0 -> 1
+[28/12/2016 14:29:17] Butchie(14) changing perk 462 value: 0 -> 1
+[28/12/2016 14:29:56] Butchie(14) changing perk 433 value: 0 -> 1
+[28/12/2016 14:30:00] Butchie(14) changing perk 435 value: 0 -> 1
+[28/12/2016 14:30:03] Butchie(14) changing perk 462 value: 1 -> 2
+[28/12/2016 14:30:47] Butchie(14) changing perk 314 value: 0 -> 1
+[28/12/2016 15:03:06] Butch(15) changing perk 301 value: 0 -> 1
+[28/12/2016 15:04:02] Butch(15) changing perk 380 value: 0 -> 1
+[28/12/2016 15:08:21] Butch(15) changing perk 313 value: 0 -> 1
+[28/12/2016 15:08:40] Butch(15) changing perk 438 value: 0 -> 1
+[28/12/2016 15:12:20] Butch(15) changing perk 329 value: 0 -> 1
+[28/12/2016 15:12:58] Butch(15) changing perk 329 value: 1 -> 2
+[28/12/2016 15:13:17] Butch(15) changing perk 306 value: 0 -> 1
+[28/12/2016 15:13:43] Butch(15) changing perk 405 value: 0 -> 1
+[28/12/2016 15:14:13] Butch(15) changing perk 423 value: 0 -> 1
+[28/12/2016 15:14:52] Khans Are Shit(13) changing perk 432 value: 0 -> 1
+[28/12/2016 15:14:58] Khans Are Shit(13) changing perk 434 value: 0 -> 1
+[28/12/2016 15:15:05] Khans Are Shit(13) changing perk 462 value: 0 -> 1
+[28/12/2016 15:15:13] Khans Are Shit(13) changing perk 463 value: 0 -> 1
+[28/12/2016 15:15:21] Khans Are Shit(13) changing perk 464 value: 0 -> 1
+[28/12/2016 15:15:31] Khans Are Shit(13) changing perk 466 value: 0 -> 1
+[28/12/2016 15:15:46] Khans Are Shit(13) changing perk 467 value: 0 -> 1
+[28/12/2016 15:15:50] Khans Are Shit(13) changing perk 468 value: 0 -> 1
+[28/12/2016 15:15:55] Khans Are Shit(13) changing perk 469 value: 0 -> 1
+[28/12/2016 15:18:03] Khans Are Shit(13) changing perk 462 value: 1 -> 2
+[28/12/2016 15:18:09] Khans Are Shit(13) changing perk 435 value: 0 -> 1
+[28/12/2016 15:18:14] Khans Are Shit(13) changing perk 433 value: 0 -> 1
+[28/12/2016 15:18:34] Butch(15) changing perk 432 value: 0 -> 1
+[28/12/2016 15:18:38] Butch(15) changing perk 434 value: 0 -> 1
+[28/12/2016 15:18:41] Butch(15) changing perk 462 value: 0 -> 1
+[28/12/2016 15:18:45] Butch(15) changing perk 463 value: 0 -> 1
+[28/12/2016 15:18:48] Butch(15) changing perk 464 value: 0 -> 1
+[28/12/2016 15:18:51] Butch(15) changing perk 466 value: 0 -> 1
+[28/12/2016 15:18:56] Butch(15) changing perk 467 value: 0 -> 1
+[28/12/2016 15:18:59] Butch(15) changing perk 468 value: 0 -> 1
+[28/12/2016 15:19:02] Butch(15) changing perk 469 value: 0 -> 1
+[28/12/2016 15:20:55] Butch(15) changing perk 433 value: 0 -> 1
+[28/12/2016 15:21:00] Butch(15) changing perk 435 value: 0 -> 1
+[28/12/2016 15:21:05] Butch(15) changing perk 462 value: 1 -> 2
+[28/12/2016 15:56:42] Butch(15) changing perk 314 value: 0 -> 1
+[28/12/2016 15:57:22] Butch(15) changing perk 401 value: 0 -> 1
+[5/9/2017 14:05:46] lash(1) changing perk 301 value: 0 -> 1

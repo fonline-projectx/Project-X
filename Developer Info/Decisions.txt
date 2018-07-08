@@ -1,0 +1,24 @@
+## Friday, 2017 September 15
+-----------------------------
+- Work started on discussing perks and combat
+- Added SuperGamer to the team.
+
+## Friday, 2017 September 8
+-----------------------------
+- FG wants to have a meeting tomorrow.
+- Actually created this file
+- Decided on time format: %Weekday%, %Year% %Month% %Day%
+
+## Sunday, 2017 September 3
+-----------------------------
+#### Project Hosting: Google Drive
+
+- At the moment Google Drive is our best option. We're a small team, we need to be able to work fast, and we need to have privacy while we do it. Github is nice for some projects but an absolute pain in other respects.
+
+- The downside is that making an audit log will be difficult. We will have to rely on people recording their changes in the changelog file.
+
+- Some files, particularly those in /Dev Documentation/ should _only_ be opened in Google Drive/Google Apps in case other people need to edit. Nobody likes losing work.
+
+#### SDK: Reloaded S2
+
+- FOnline's _current_ SDK is unstable and half-finished. The older revisions lack much of the capabilities and content of the 2238/Reloaded SDK. Reloaded S2 is the last available release of the 2238 series.

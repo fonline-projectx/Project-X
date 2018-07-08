@@ -1,0 +1,1856 @@
+[7/8/2016 02:32:43] Authenticated: default (client->admin)
+[7/8/2016 02:32:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:33:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:34:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:35:16] Butcher(1)(100)(Admin)command give 232
+[7/8/2016 02:35:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:35:52] Butcher(1)(100)(Admin)command give 232 5
+[7/8/2016 02:36:31] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:32] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:32] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:33] Butcher(1)(100)(Admin)command give 232 5
+[7/8/2016 02:36:34] Butcher(1)(100)(Admin)command give 232 5
+[7/8/2016 02:36:34] Butcher(1)(100)(Admin)command give 232 5
+[7/8/2016 02:36:36] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:37] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:38] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:38] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:39] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:40] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:40] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:41] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:41] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:42] Butcher(1)(100)(Admin)command xp
+[7/8/2016 02:36:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:36:45] Butcher(1)(100)(Admin)command xp 50000
+[7/8/2016 02:37:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:38:13] Butcher(1)(100)(Admin)command spawncar PID_TARDIS
+[7/8/2016 02:38:24] Butcher(1)(100)(Admin)command spawncar PID_CORVEGA
+[7/8/2016 02:38:32] Butcher(1)(0)(Admin) has entered worldmap
+[7/8/2016 02:38:35] Butcher(1)(100)(Admin) has entered map 100
+[7/8/2016 02:38:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:39:06] Butcher(1)(100)(Admin)command give PID_TARDIS
+[7/8/2016 02:39:31] Butcher(1)(100)(Admin)command give 29 300
+[7/8/2016 02:39:43] Butcher(1)(100)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:39:54] Butcher(1)(100)(Admin)command give 39 400
+[7/8/2016 02:40:05] Butcher(1)(0)(Admin) has entered worldmap
+[7/8/2016 02:40:43] Butcher(1)(0)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:40:59] Butcher(1)(63)(Admin) has entered map 63
+[7/8/2016 02:41:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:42:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:42:50] Butcher(1)(63)(Admin)command paremeter 11 10
+[7/8/2016 02:43:13] Butcher(1)(63)(Admin)command give 350
+[7/8/2016 02:43:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:43:44] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:43:57] Butcher(1)(63)(Admin)command give 350
+[7/8/2016 02:44:11] Butcher(1)(63)(Admin)command run cheat 000
+[7/8/2016 02:44:25] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:44:31] Butcher(1)(63)(Admin)command give 350
+[7/8/2016 02:44:42] Butcher(1)(63)(Admin)command killall
+[7/8/2016 02:44:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:44:48] Butcher(1)(63)(Admin)command kill all
+[7/8/2016 02:44:57] Butcher(1)(63)(Admin)command kill all
+[7/8/2016 02:45:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:45:50] Butcher(1)(63)(Admin)command give 395
+[7/8/2016 02:46:25] Butcher(1)(63)(Admin)command give PID-4.7_Caseless
+[7/8/2016 02:46:34] Butcher(1)(63)(Admin)command give PID-4.7_CASELESS
+[7/8/2016 02:46:39] Butcher(1)(63)(Admin)command give PID-4.7CASELESS
+[7/8/2016 02:46:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:47:09] Butcher(1)(63)(Admin)command give 240
+[7/8/2016 02:47:37] Butcher(1)(63)(Admin)command give 420
+[7/8/2016 02:47:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:47:45] Butcher(1)(63)(Admin)command give 421
+[7/8/2016 02:48:20] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:48:34] Butcher(1)(63)(Admin)command give 421 100
+[7/8/2016 02:48:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:48:52] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:49:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:49:55] Butcher(1)(63)(Admin)command dropalltimeouts
+[7/8/2016 02:50:18] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:50:21] Butcher(1)(63)(Admin)command dropalltimeouts
+[7/8/2016 02:50:34] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:50:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:51:11] Butcher(1)(63)(Admin)command revive
+[7/8/2016 02:51:37] Butcher(1)(63)(Admin)command dropalltimeouts
+[7/8/2016 02:51:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:51:49] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:50] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:51] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:52] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:52] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:53] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:55] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:58] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:51:59] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:00] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:01] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:02] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:03] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:03] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:04] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:04] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:05] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:06] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:06] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:06] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:07] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:08] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:08] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:09] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:09] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:10] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:10] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:11] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:12] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:12] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:13] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:13] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:14] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:14] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:15] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:16] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:16] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:16] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:17] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:17] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:18] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:18] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:18] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:19] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:19] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:20] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:20] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:21] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:22] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:23] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:42] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:43] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:43] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:43] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:44] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:52:44] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:45] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:45] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:46] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:52:53] Butcher(1)(63)(Admin)command setlevel 400
+[7/8/2016 02:53:15] Butcher(1)(63)(Admin)command xp-a 50000000
+[7/8/2016 02:53:19] Butcher(1)(63)(Admin)command xp-a 50000
+[7/8/2016 02:53:24] Butcher(1)(63)(Admin)command xp-a 5000
+[7/8/2016 02:53:44] Butcher(1)(63)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:53:45] Butcher(1)(63)(Admin)command xp_a 5000000
+[7/8/2016 02:53:53] Butcher(1)(63)(Admin)command xp-500000000
+[7/8/2016 02:54:13] Butcher(1)(63)(Admin)command xp
+[7/8/2016 02:54:28] Butcher(1)(0)(Admin) has entered worldmap
+[7/8/2016 02:54:38] Butcher(1)(0)(Admin)command xp_a 5000000
+[7/8/2016 02:54:42] Butcher(1)(0)(Admin)command xp-a 50000
+[7/8/2016 02:54:45] Butcher(1)(0)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:54:54] Butcher(1)(0)(Admin)command xp -a 3300
+[7/8/2016 02:55:19] Butcher(1)(0)(Admin)command xp-a 3300
+[7/8/2016 02:55:33] Butcher(1)(0)(Admin)command xp -a 50000000000000000
+[7/8/2016 02:55:40] Butcher(1)(0)(Admin)command xp -a 5000000000
+[7/8/2016 02:55:45] Butcher(1)(0)(Admin)GM Tools: access granted (3)
+[7/8/2016 02:55:48] Butcher(1)(0)(Admin)command xp -a 5000000
+[28/12/2016 11:29:55] Authenticated: default (client->admin)
+[28/12/2016 11:29:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:30:02] Butcher(6)(100)(Admin) saw Durr(5)(100)(Admin) use sneak 
+[28/12/2016 11:30:10] Butcher(6)(100)(Admin) picks up item 2087
+[28/12/2016 11:30:12] Butcher(6)(100)(Admin) saw Durr(5)(100)(Admin) use sneak 
+[28/12/2016 11:30:32] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:30:32] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:30:33] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:30:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:31:09] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:31:13] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:31:14] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:31:14] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:31:16] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:31:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:32:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:33:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:34:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:35:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:35:56] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:36:15] Butcher(6)(0)(Admin) has entered worldmap
+[28/12/2016 11:36:26] Butcher(6)(100)(Admin) has entered map 100
+[28/12/2016 11:36:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:37:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:38:55] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:39:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:40:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:41:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:42:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:43:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:44:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:45:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:46:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:47:06] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:47:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:47:59] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:48:00] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:48:00] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:48:00] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:48:01] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:48:34] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:48:34] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:48:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:49:06] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:49:20] Butcher(6)(100)(Admin) saw Durr(5)(100)(Admin) attacking Butcher(6)(100)(Admin)
+[28/12/2016 11:49:20] Butcher(6)(100)(Admin) was attacked by Durr(5)(100)(Admin)
+[28/12/2016 11:49:21] Butcher(6)(100)(Admin) saw Durr(5)(100)(Admin) attacking Butcher(6)(100)(Admin)
+[28/12/2016 11:49:21] Butcher(6)(100)(Admin) was attacked by Durr(5)(100)(Admin)
+[28/12/2016 11:49:23] Butcher(6)(100)(Admin) saw Npc (hub_police1, 5002568)(5002568)(100) killing Durr(5)(100)(Admin)
+[28/12/2016 11:49:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:50:04] Butcher(6)(100)(Admin) lost sight of Durr(5)(100)(Admin)
+[28/12/2016 11:50:05] Butcher(6)(100)(Admin) sees Durr(5)(100)(Admin)
+[28/12/2016 11:50:06] Butcher(6)(100)(Admin) saw Durr(5)(100)(Admin) use first aid on Butcher
+[28/12/2016 11:50:56] Butcher(6)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 11:52:03] Butcher(6)(100)(Admin) sees Buncher(7)(100)
+[28/12/2016 11:54:00] Butcher(6)(100)(Admin) has entered worldmap
+[28/12/2016 11:58:33] Butcher(9)(204)GMTools: check access fail <1>
+[28/12/2016 11:58:33] Butcher(9)(204)GMTools: check access fail <1>
+[28/12/2016 11:58:33] Butcher(9)(204)GMTools: check access fail <1>
+[28/12/2016 11:59:41] Authenticated: default (client->admin)
+[28/12/2016 11:59:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:00:23] Butcher(9)(100)(Admin) lost sight of Buncher(7)(100)(Admin)
+[28/12/2016 12:00:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:01:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:02:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:03:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:04:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:05:06] Butcher(9)(100)(Admin)command give 50 PID_FIRST_AID_BOOK
+[28/12/2016 12:05:15] Butcher(9)(100)(Admin) dropped item PID 50
+[28/12/2016 12:05:30] Butcher(9)(100)(Admin)command give PID_FIRST_AID_BOOK 50
+[28/12/2016 12:05:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:06:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:07:04] Butcher(9)(100)(Admin)command give 102 PID 50
+[28/12/2016 12:07:33] Butcher(9)(100)(Admin)command give PID_GUNS_AND_BULLETS 49
+[28/12/2016 12:07:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:07:59] Butcher(9)(100)(Admin) dropped item PID 102
+[28/12/2016 12:08:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:08:38] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:08:40] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:08:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:08:55] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:08:56] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:08:57] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:09:15] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:17] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:18] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:19] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:28] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:31] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:09:42] Butcher(9)(100)(Admin) sees Durr(10)(100)(Admin)
+[28/12/2016 12:09:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:09:53] Butcher(9)(100)(Admin) lost sight of Durr(10)(100)(Admin)
+[28/12/2016 12:10:02] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:03] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:03] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:04] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:04] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:04] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:04] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:05] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:05] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:14] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:14] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:15] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:15] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:15] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:15] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:15] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:16] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:17] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:17] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:17] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:17] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:18] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:18] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:18] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:10:47] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:50] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:51] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:51] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:51] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:51] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:51] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:52] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:10:52] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:04] Butcher(9)(100)(Admin) sees Durr(10)(100)(Admin)
+[28/12/2016 12:11:05] Butcher(9)(100)(Admin) saw Durr(10)(100)(Admin) attacking Butcher(9)(100)(Admin)
+[28/12/2016 12:11:05] Butcher(9)(100)(Admin) was attacked by Durr(10)(100)(Admin)
+[28/12/2016 12:11:08] Butcher(9)(100)(Admin) saw Npc (hub_police1, 5002568)(5002568)(100) killing Durr(10)(100)(Admin)
+[28/12/2016 12:11:27] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:27] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:28] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:28] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:28] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:28] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:28] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:29] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:30] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:31] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:31] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:31] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:31] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:31] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:32] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:32] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:32] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:40] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:41] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:41] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:41] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:11:41] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:11:43] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:44] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:44] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:44] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:44] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:45] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:45] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:45] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:45] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:45] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:46] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:46] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:46] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:46] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:46] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:46] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:47] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:11:47] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:18] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:18] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:18] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:19] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:19] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:19] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:19] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:19] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:24] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:24] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:24] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:24] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:24] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:24] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:41] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:41] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:12:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:42] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:43] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:44] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:44] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:44] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:44] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:44] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:44] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:45] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:45] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:45] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:46] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:46] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:46] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:46] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:46] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:46] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:47] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:47] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:47] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:47] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:12:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:48] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:12:49] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:13:34] Butcher(9)(100)(Admin) lost sight of Durr(10)(100)(Admin)
+[28/12/2016 12:13:42] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:14:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:20] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:21] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:22] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:22] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:22] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:22] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:22] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:23] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:23] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:23] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:23] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:24] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:24] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:24] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:24] Butcher(9)(100)(Admin)command xp 3000
+[28/12/2016 12:14:24] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:25] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:26] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:26] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:26] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:26] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:26] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:26] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:27] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:27] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:27] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:27] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:27] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:28] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:42] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:14:51] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:54] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:54] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:55] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:55] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:55] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:55] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:55] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:56] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:56] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:14:56] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:56] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:56] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:57] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:57] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:57] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:57] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:57] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:57] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:58] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:14:58] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:00] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:00] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:00] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:00] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:00] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:01] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:01] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:01] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:01] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:01] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:02] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:02] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:02] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:02] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:02] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:02] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:03] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:03] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:03] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:03] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:03] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:03] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:04] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:04] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:04] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:04] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:04] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:05] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:05] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:05] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:18] Butcher(9)(100)(Admin)command xp 2000
+[28/12/2016 12:15:18] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:18] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:18] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:18] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:19] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:19] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:19] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:19] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:19] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:19] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:20] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:20] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:20] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:20] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:20] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:22] Butcher(9)(100)(Admin)command xp 10000
+[28/12/2016 12:15:42] Butcher(9)(100)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:16:02] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 12:16:10] Butcher(9)(101)(Admin) has entered map 101
+[28/12/2016 12:16:39] Butcher(9)(101)(Admin)command xp 20000
+[28/12/2016 12:16:42] Butcher(9)(101)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:17:05] Butcher(9)(101)(Admin)command xp -p Butcher -a 20000
+[28/12/2016 12:17:07] Butcher(9)(101)(Admin)command xp -p Butcher -a 20000
+[28/12/2016 12:17:11] Butcher(9)(101)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:17:42] Butcher(9)(101)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:18:42] Butcher(9)(101)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:19:01] Butcher(9)(63)(Admin) has entered worldmap
+[28/12/2016 12:19:01] Butcher(9)(63)(Admin) has entered map 63
+[28/12/2016 12:19:01] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:19:31] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:19:33] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:19:33] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:19:42] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:20:17] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:20:38] Butcher(9)(63)(Admin)command give PID_ADVANCED_POWER_ARMOR_MK2
+[28/12/2016 12:20:42] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:21:03] Butcher(9)(63)(Admin) dropped item PID 232
+[28/12/2016 12:21:42] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:21:52] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:22:20] Butcher(9)(20)(Admin) has entered worldmap
+[28/12/2016 12:22:20] Butcher(9)(20)(Admin) has entered map 20
+[28/12/2016 12:22:26] Butcher(9)(16)(Admin) has entered worldmap
+[28/12/2016 12:22:26] Butcher(9)(16)(Admin) has entered map 16
+[28/12/2016 12:22:30] Butcher(9)(20)(Admin) has entered worldmap
+[28/12/2016 12:22:30] Butcher(9)(20)(Admin) has entered map 20
+[28/12/2016 12:22:32] Butcher(9)(16)(Admin) has entered worldmap
+[28/12/2016 12:22:32] Butcher(9)(16)(Admin) has entered map 16
+[28/12/2016 12:22:42] Butcher(9)(16)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:23:34] Butcher(9)(16)(Admin)command teleport R
+[28/12/2016 12:23:41] Butcher(9)(16)(Admin)command teleport redding
+[28/12/2016 12:23:41] Butcher(9)(60)(Admin) has entered worldmap
+[28/12/2016 12:23:41] Butcher(9)(60)(Admin) has entered map 60
+[28/12/2016 12:23:42] Butcher(9)(60)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:24:43] Butcher(9)(60)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:24:57] Butcher(9)(60)(Admin)command teleport sf
+[28/12/2016 12:24:57] Butcher(9)(63)(Admin) has entered worldmap
+[28/12/2016 12:24:57] Butcher(9)(63)(Admin) has entered map 63
+[28/12/2016 12:25:04] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:25:05] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:25:16] Butcher(9)(63)(Admin) dropped item PID 22056
+[28/12/2016 12:25:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:26:24] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:26:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:26:58] Butcher(9)(63)(Admin)command xp -p Hurr-a 2000
+[28/12/2016 12:27:01] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:27:02] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:27:02] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:27:03] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:27:03] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:27:04] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:27:05] Butcher(9)(63)(Admin) lost sight of Hurr(11)(63)(Admin)
+[28/12/2016 12:27:30] Butcher(9)(63)(Admin) sees Hurr(11)(63)(Admin)
+[28/12/2016 12:27:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:28:31] Butcher(9)(63)(Admin)command give PID_COMBAT_ARMOR 5
+[28/12/2016 12:28:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:29:17] Butcher(9)(63)(Admin)command give PID_COMBAT_ARMOR
+[28/12/2016 12:29:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:30:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:30:47] Butcher(9)(63)(Admin) saw Hurr(11)(63)(Admin) get killed
+[28/12/2016 12:31:03] Butcher(9)(63)(Admin)command give PID_NEMEAN_IMPLANT
+[28/12/2016 12:31:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:31:45] Butcher(9)(63)(Admin)command give PID_IMPLANT_DERMAL
+[28/12/2016 12:31:52] Butcher(9)(63)(Admin) lost sight of Hurr(11)(136)(Admin)
+[28/12/2016 12:32:00] Butcher(9)(63)(Admin)command give PID_IMPLANT_PHOENIX
+[28/12/2016 12:32:15] Butcher(9)(63)(Admin)command give PID 41 1000000
+[28/12/2016 12:32:27] Butcher(9)(212)(Admin) has entered worldmap
+[28/12/2016 12:32:27] Butcher(9)(212)(Admin) has entered map 212
+[28/12/2016 12:32:27] Butcher(9)(212)(Admin) sees Durr(12)(212)(Admin)
+[28/12/2016 12:32:30] Butcher(9)(212)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:32:38] Butcher(9)(212)(Admin)command teleport sf
+[28/12/2016 12:32:38] Butcher(9)(63)(Admin) has entered worldmap
+[28/12/2016 12:32:38] Butcher(9)(63)(Admin) has entered map 63
+[28/12/2016 12:32:38] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:32:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:32:46] Butcher(9)(147)(Admin) has entered worldmap
+[28/12/2016 12:32:46] Butcher(9)(147)(Admin) has entered map 147
+[28/12/2016 12:32:48] Butcher(9)(147)(Admin)command teleport sf
+[28/12/2016 12:32:48] Butcher(9)(63)(Admin) has entered worldmap
+[28/12/2016 12:32:48] Butcher(9)(63)(Admin) has entered map 63
+[28/12/2016 12:32:48] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:32:54] Butcher(9)(63)(Admin) picks up item 2849
+[28/12/2016 12:32:56] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:32:58] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:32:59] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:32:59] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:11] Butcher(9)(69)(Admin) has entered worldmap
+[28/12/2016 12:33:11] Butcher(9)(69)(Admin) has entered map 69
+[28/12/2016 12:33:15] Butcher(9)(69)(Admin)command teleport sf
+[28/12/2016 12:33:15] Butcher(9)(63)(Admin) has entered worldmap
+[28/12/2016 12:33:15] Butcher(9)(63)(Admin) has entered map 63
+[28/12/2016 12:33:26] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:26] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:33:27] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:27] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:33:27] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:27] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:33:27] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:27] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:33:28] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:28] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:33:28] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:33:41] Butcher(9)(63)(Admin)command give PID_IMPLANT_NEMEAN
+[28/12/2016 12:33:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:34:17] Butcher(9)(63)(Admin)command give PID_COMBAT_ARMOR 3
+[28/12/2016 12:34:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:34:52] Butcher(9)(63)(Admin) picks up item 41
+[28/12/2016 12:35:34] Butcher(9)(63)(Admin)command give PID_BOTTLE_CAP 100000
+[28/12/2016 12:35:38] Butcher(9)(63)(Admin)command give PID_BOTTLE_CAPS 100000
+[28/12/2016 12:35:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:35:51] Butcher(9)(63)(Admin) dropped item PID 41
+[28/12/2016 12:35:52] Butcher(9)(63)(Admin) dropped item PID 41
+[28/12/2016 12:36:07] Butcher(9)(63)(Admin)command give PID_BOTTLE_CAPS 10000
+[28/12/2016 12:36:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:36:45] Butcher(9)(63)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 12:37:28] Butcher(9)(147)(Admin) has entered worldmap
+[28/12/2016 12:37:28] Butcher(9)(147)(Admin) has entered map 147
+[28/12/2016 12:37:28] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 12:37:35] Butcher(9)(147)(Admin)command teleport sf
+[28/12/2016 12:37:35] Butcher(9)(63)(Admin) has entered worldmap
+[28/12/2016 12:37:35] Butcher(9)(63)(Admin) has entered map 63
+[28/12/2016 12:37:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:38:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:38:55] Butcher(9)(63)(Admin)command give PID_APA_HELMET_MK2
+[28/12/2016 12:39:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:40:03] Butcher(9)(63)(Admin)command xp -p Butcher 20000
+[28/12/2016 12:40:09] Butcher(9)(63)(Admin)command xp -p Butcher -a 20000
+[28/12/2016 12:40:19] Butcher(9)(63)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:40:28] Butcher(9)(63)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:40:37] Butcher(9)(63)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:40:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:41:12] Butcher(9)(63)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:41:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:42:04] Butcher(9)(63)(Admin)command teleport -p Durr
+[28/12/2016 12:42:19] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:42:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:43:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:44:43] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:45:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:46:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:47:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:48:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:49:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:50:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:50:56] Butcher(9)(63)(Admin)command give PID_COMBAT ARMOR 10
+[28/12/2016 12:51:06] Butcher(9)(63)(Admin)command give PID_COMBAT_ARMOR 10
+[28/12/2016 12:51:14] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:51:42] Butcher(9)(63)(Admin)command give PID_COMBAT_ARMOR 10
+[28/12/2016 12:51:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:51:47] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:51:49] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:51:49] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:51:50] Butcher(9)(63)(Admin) lost sight of Durr(12)(63)(Admin)
+[28/12/2016 12:51:50] Butcher(9)(63)(Admin) sees Durr(12)(63)(Admin)
+[28/12/2016 12:52:00] Butcher(9)(63)(Admin)command give PID_IMPLANT_LUCK
+[28/12/2016 12:52:10] Butcher(9)(63)(Admin)command give PID_IMPLANT_AGILITY
+[28/12/2016 12:52:18] Butcher(9)(63)(Admin)command give PID_IMPLANT_INTELLIGENCE
+[28/12/2016 12:52:32] Butcher(9)(63)(Admin)command give PID_IMPLANT_CHARISMA
+[28/12/2016 12:52:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:52:47] Butcher(9)(63)(Admin)command give PID_IMPLANT_ENDURANCE
+[28/12/2016 12:52:53] Butcher(9)(63)(Admin) dropped item PID 22056
+[28/12/2016 12:53:04] Butcher(9)(63)(Admin)command give PID_IMPLANT_PERCEPTION
+[28/12/2016 12:53:14] Butcher(9)(63)(Admin)command give PID_IMPLANT_STRENGTH
+[28/12/2016 12:53:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:54:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:55:44] Butcher(9)(63)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:56:03] Butcher(9)(63)(Admin)command teleport ncr
+[28/12/2016 12:56:03] Butcher(9)(43)(Admin) has entered worldmap
+[28/12/2016 12:56:03] Butcher(9)(43)(Admin) has entered map 43
+[28/12/2016 12:56:41] Butcher(9)(43)(Admin) sees Durr(12)(43)(Admin)
+[28/12/2016 12:56:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:57:07] Butcher(9)(43)(Admin) lost sight of Durr(12)(43)(Admin)
+[28/12/2016 12:57:27] Butcher(9)(43)(Admin)command xp -p Butcher 200000
+[28/12/2016 12:57:33] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:57:43] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:57:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:57:51] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:57:52] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:57:59] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:00] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:02] Butcher(9)(43)(Admin) sees Durr(12)(43)(Admin)
+[28/12/2016 12:58:09] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:10] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:26] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:27] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:36] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:37] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:39] Butcher(9)(43)(Admin) picks up item 808
+[28/12/2016 12:58:41] Butcher(9)(43)(Admin) picks up item 808
+[28/12/2016 12:58:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:58:50] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:51] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:53] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:58:56] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:06] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:07] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:12] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:18] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:19] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:26] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:27] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:29] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:36] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:36] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:37] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:40] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 12:59:55] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:56] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:56] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 12:59:58] Butcher(9)(43)(Admin) lost sight of Durr(12)(43)(Admin)
+[28/12/2016 13:00:04] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:05] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:06] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:09] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:17] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:17] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:18] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:21] Butcher(9)(43)(Admin) sees Durr(12)(43)(Admin)
+[28/12/2016 13:00:22] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:24] Butcher(9)(43)(Admin) lost sight of Durr(12)(43)(Admin)
+[28/12/2016 13:00:31] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:31] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:32] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:34] Butcher(9)(43)(Admin)command xp -p Butcher -a 200000
+[28/12/2016 13:00:41] Butcher(9)(43)(Admin)command xp -p Butcher -a 2000000
+[28/12/2016 13:00:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:01:14] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:16] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:24] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:25] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:37] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:38] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:01:47] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:01:48] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:20] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:21] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:33] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:34] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:02:44] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:45] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:55] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:02:56] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:00] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:07] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:07] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:08] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:35] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:35] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:37] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:03:45] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:46] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:03:46] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:18] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:18] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:19] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:29] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:29] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:30] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:37] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:38] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:38] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:04:46] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:46] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:04:47] Butcher(9)(43)(Admin)command xp -p Butcher -a 500000
+[28/12/2016 13:05:33] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 13:05:39] Butcher(9)(43)(Admin) has entered map 43
+[28/12/2016 13:05:44] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:06:45] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:07:32] Butcher(9)(43)(Admin)command give PID_BLUEPRINT_SUPER_STIMPAK 
+[28/12/2016 13:07:45] Butcher(9)(43)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:08:13] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 13:08:45] Butcher(9)(0)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:08:47] Butcher(9)(222)(Admin) has entered map 222
+[28/12/2016 13:08:47] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:08:49] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:08:50] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:08:51] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:08:51] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:08:53] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:08:54] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:09:11] Butcher(9)(222)(Admin)command give PID_WOOD 250
+[28/12/2016 13:09:27] Butcher(9)(222)(Admin)command give PID_JUNK 250
+[28/12/2016 13:09:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:10:25] Butcher(9)(222)(Admin)command give PID_NCR_ARMOR 20
+[28/12/2016 13:10:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:11:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:11:52] Butcher(9)(222)(Admin)command give PID_DESERT_COMBAT_ARMOR 20
+[28/12/2016 13:12:12] Butcher(9)(222)(Admin)command give PID_ENCLAVE_COMBAT_ARMOR 20
+[28/12/2016 13:12:31] Butcher(9)(222)(Admin)command give PID_NCR_HELMET
+[28/12/2016 13:12:38] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:12:38] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:12:39] Butcher(9)(222)(Admin) picks up item 1810
+[28/12/2016 13:12:42] Butcher(9)(222)(Admin)command give PID_NCR_HELMET 19
+[28/12/2016 13:12:42] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:12:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:13:01] Butcher(9)(222)(Admin)command give PID_DESERT_COMBAT_HELMET 20
+[28/12/2016 13:13:19] Butcher(9)(222)(Admin)command give PID_ENCLAVE_COMBAT_HELMET 20
+[28/12/2016 13:13:24] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:13:26] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:13:27] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:13:28] Butcher(9)(222)(Admin) dropped item PID 509
+[28/12/2016 13:13:32] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:13:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:14:13] Butcher(9)(222)(Admin)command give PID_BROTHERHOOD_HELMET 20
+[28/12/2016 13:14:24] Butcher(9)(222)(Admin)command give PID_COMBAT_HELMET_MK_II 20
+[28/12/2016 13:14:37] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:14:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:14:46] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:15:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:16:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:17:30] Butcher(9)(222)(Admin)command give PID_VINDICATOR_MINIGUN 5
+[28/12/2016 13:17:44] Butcher(9)(222)(Admin)command give PID_SOLAR_SCORCHER 20
+[28/12/2016 13:17:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:17:52] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:18:05] Butcher(9)(222)(Admin)command give PID_AVENGER_MINIGUN 5
+[28/12/2016 13:18:22] Butcher(9)(222)(Admin)command give PID_COMBAT_ARMOR_MK_II 20
+[28/12/2016 13:18:32] Butcher(9)(222)(Admin) lost sight of Durr(12)(222)(Admin)
+[28/12/2016 13:18:32] Butcher(9)(222)(Admin) sees Durr(12)(222)(Admin)
+[28/12/2016 13:18:39] Butcher(9)(222)(Admin) saw Durr(12)(222)(Admin) use sneak 
+[28/12/2016 13:18:45] Butcher(9)(222)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:18:56] Butcher(9)(222)(Admin)command give PID_4_7MM_CASELESS 1000
+[28/12/2016 13:19:06] Butcher(9)(222)(Admin) lost sight of Durr(12)(227)(Admin)
+[28/12/2016 13:19:06] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 13:19:45] Butcher(9)(0)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:19:58] Butcher(9)(227)(Admin) has entered map 227
+[28/12/2016 13:20:00] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:20:36] Butcher(9)(227)(Admin)command give PID_BROTHERHOOD_COMBAT_ARMOR 20
+[28/12/2016 13:20:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:21:10] Butcher(9)(227)(Admin) picks up item 662
+[28/12/2016 13:21:26] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:21:31] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 282
+[28/12/2016 13:21:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:21:49] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:21:56] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 382
+[28/12/2016 13:22:03] Butcher(9)(227)(Admin)command give PID_SUPER_STIMPAK 2000
+[28/12/2016 13:22:22] Butcher(9)(227)(Admin)command give PID_BEER 500
+[28/12/2016 13:22:27] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:22:39] Butcher(9)(227)(Admin) picks up item 662
+[28/12/2016 13:22:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:22:46] Butcher(9)(227)(Admin)command give PID_NUKA_COLA 500
+[28/12/2016 13:22:48] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:22:58] Butcher(9)(227)(Admin)command give PID_RAD_X 500
+[28/12/2016 13:22:59] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 106
+[28/12/2016 13:23:02] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 106
+[28/12/2016 13:23:11] Butcher(9)(227)(Admin)command give PID_LIGHTER 500
+[28/12/2016 13:23:23] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 101
+[28/12/2016 13:23:25] Butcher(9)(227)(Admin)command give PID_BUFFOUT 500
+[28/12/2016 13:23:26] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 101
+[28/12/2016 13:23:45] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 541
+[28/12/2016 13:23:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:23:47] Butcher(9)(227)(Admin)command give PID_MOTION_SENSOR 20
+[28/12/2016 13:24:05] Butcher(9)(227)(Admin)command give PID_RADAWAY 500
+[28/12/2016 13:24:21] Butcher(9)(227)(Admin)command give 20000
+[28/12/2016 13:24:40] Butcher(9)(227)(Admin)command give PID_5MM_AP 20000
+[28/12/2016 13:24:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:25:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:26:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:27:15] Butcher(9)(227)(Admin)command give PID_MICRO_FUSION_CELL 20000
+[28/12/2016 13:27:45] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:28:27] Butcher(9)(227)(Admin)command give PID_PSYCHO 500
+[28/12/2016 13:28:42] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use push critter on Butcher
+[28/12/2016 13:28:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:28:51] Butcher(9)(227)(Admin) picks up item 39 (20000)
+[28/12/2016 13:28:54] Butcher(9)(227)(Admin) picks up item 662
+[28/12/2016 13:29:07] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:29:11] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 39
+[28/12/2016 13:29:17] Butcher(9)(227)(Admin) picks up item 39 (18514)
+[28/12/2016 13:29:19] Butcher(9)(227)(Admin) picks up item 39 (17028)
+[28/12/2016 13:29:22] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:29:25] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 39
+[28/12/2016 13:29:28] Butcher(9)(227)(Admin) picks up item 39 (17028)
+[28/12/2016 13:29:30] Butcher(9)(227)(Admin) picks up item 39 (15542)
+[28/12/2016 13:29:32] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:29:36] Butcher(9)(227)(Admin) picks up item 39 (15542)
+[28/12/2016 13:29:38] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:29:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:29:47] Butcher(9)(227)(Admin) picks up item 39 (14056)
+[28/12/2016 13:29:48] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:29:56] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:30:01] Butcher(9)(227)(Admin) picks up item 39 (12570)
+[28/12/2016 13:30:04] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:30:11] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on Butcher
+[28/12/2016 13:30:22] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use push critter on Butcher
+[28/12/2016 13:30:36] Butcher(9)(227)(Admin)command give PID_JET 500
+[28/12/2016 13:30:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:30:55] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:31:13] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:31:15] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:31:16] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:31:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:32:19] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:32:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:33:34] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use science on item 400
+[28/12/2016 13:33:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:33:46] Butcher(9)(227)(Admin) dropped item PID 11
+[28/12/2016 13:34:39] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:34:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:35:06] Butcher(9)(227)(Admin) dropped item PID 389
+[28/12/2016 13:35:41] Butcher(9)(227)(Admin) dropped item PID 390
+[28/12/2016 13:35:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:35:50] Butcher(9)(227)(Admin) dropped item PID 59
+[28/12/2016 13:36:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:36:54] Butcher(9)(227)(Admin)command give PID_ROBO_ROCKET_LAUNCHER
+[28/12/2016 13:37:02] Butcher(9)(227)(Admin) dropped item PID 349
+[28/12/2016 13:37:03] Butcher(9)(227)(Admin) dropped item PID 736
+[28/12/2016 13:37:17] Butcher(9)(227)(Admin) dropped item PID 527
+[28/12/2016 13:37:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:38:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:39:19] Butcher(9)(227)(Admin) dropped item PID 736
+[28/12/2016 13:39:20] Butcher(9)(227)(Admin) dropped item PID 349
+[28/12/2016 13:39:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:40:46] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) attacking Butcher(9)(227)(Admin)
+[28/12/2016 13:40:46] Butcher(9)(227)(Admin) was attacked by Durr(12)(227)(Admin)
+[28/12/2016 13:40:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:41:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:42:46] Butcher(9)(227)(Admin)GM Tools: access granted (3)
+[28/12/2016 13:44:04] Butcher(9)(227)(Admin) attacked Durr(12)(227)(Admin)
+[28/12/2016 13:44:16] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use first aid 
+[28/12/2016 13:45:37] Butcher(9)(227)(Admin) picks up item 41 (99999)
+[28/12/2016 13:45:41] Butcher(9)(227)(Admin) picks up item 41 (99999)
+[28/12/2016 13:45:43] Butcher(9)(227)(Admin) picks up item 232
+[28/12/2016 13:45:57] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:46:04] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 41
+[28/12/2016 13:46:27] Butcher(9)(227)(Admin) picks up item 662
+[28/12/2016 13:46:29] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 232
+[28/12/2016 13:46:32] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 741
+[28/12/2016 13:46:35] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 9654
+[28/12/2016 13:47:45] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use steal on item 662
+[28/12/2016 13:47:47] Butcher(9)(227)(Admin) picks up item 662
+[28/12/2016 13:47:52] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 87
+[28/12/2016 13:48:00] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 110
+[28/12/2016 13:48:08] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 106
+[28/12/2016 13:48:10] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use put in container on item 541
+[28/12/2016 13:48:16] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 106
+[28/12/2016 13:48:18] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 541
+[28/12/2016 13:48:19] Butcher(9)(227)(Admin)command give PID_SUPER_TOOL_KIT 20
+[28/12/2016 13:48:29] Butcher(9)(227)(Admin) saw Durr(12)(227)(Admin) use take from container on item 124
+[28/12/2016 13:48:33] Butcher(9)(227)(Admin) lost sight of Durr(12)(227)(Admin)
+[28/12/2016 13:48:38] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:48:47] Butcher(9)(227)(Admin) dropped item PID 308
+[28/12/2016 13:48:51] Butcher(9)(227)(Admin) picks up item 308 (19)
+[28/12/2016 13:50:36] Butcher(9)(227)(Admin) lost sight of Durr(12)(227)(Admin)
+[28/12/2016 13:50:44] Butcher(9)(227)(Admin)command give PID_FLAMETHROWER_FUEL_MK_II 2000
+[28/12/2016 13:50:52] Butcher(9)(227)(Admin) sees Durr(12)(227)(Admin)
+[28/12/2016 13:53:09] Butcher(9)(227)(Admin)command teleport bh
+[28/12/2016 13:53:09] Butcher(9)(16)(Admin) has entered worldmap
+[28/12/2016 13:53:09] Butcher(9)(16)(Admin) has entered map 16
+[28/12/2016 13:53:42] Butcher(9)(16)(Admin) dropped item PID 59
+[28/12/2016 13:53:43] Butcher(9)(16)(Admin) dropped item PID 9654
+[28/12/2016 13:53:45] Butcher(9)(16)(Admin) dropped item PID 741
+[28/12/2016 13:54:11] Butcher(9)(16)(Admin)command teleport jt
+[28/12/2016 13:54:11] Butcher(9)(70)(Admin) has entered worldmap
+[28/12/2016 13:54:11] Butcher(9)(70)(Admin) has entered map 70
+[28/12/2016 13:55:19] Butcher(9)(70)(Admin) sees Durr(12)(70)(Admin)
+[28/12/2016 13:55:28] Butcher(9)(70)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 13:55:39] Butcher(9)(70)(Admin)command teleport oldtown
+[28/12/2016 13:55:46] Butcher(9)(70)(Admin)command teleport hub
+[28/12/2016 13:55:46] Butcher(9)(100)(Admin) has entered worldmap
+[28/12/2016 13:55:46] Butcher(9)(100)(Admin) has entered map 100
+[28/12/2016 13:55:53] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 13:55:58] Butcher(9)(101)(Admin) has entered map 101
+[28/12/2016 13:56:58] Butcher(9)(100)(Admin) has entered worldmap
+[28/12/2016 13:56:58] Butcher(9)(100)(Admin) has entered map 100
+[28/12/2016 13:57:10] Butcher(9)(100)(Admin)command teleport bh
+[28/12/2016 13:57:10] Butcher(9)(16)(Admin) has entered worldmap
+[28/12/2016 13:57:10] Butcher(9)(16)(Admin) has entered map 16
+[28/12/2016 13:57:11] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 13:57:11] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 13:57:11] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 13:57:25] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 13:57:31] Butcher(9)(16)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 13:58:08] Butcher(9)(16)(Admin)command give PID_MENTATS
+[28/12/2016 13:58:29] Butcher(9)(16)(Admin)command teleport hub
+[28/12/2016 13:58:29] Butcher(9)(100)(Admin) has entered worldmap
+[28/12/2016 13:58:29] Butcher(9)(100)(Admin) has entered map 100
+[28/12/2016 13:58:33] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 13:58:38] Butcher(9)(101)(Admin) has entered map 101
+[28/12/2016 13:59:17] Butcher(9)(101)(Admin)command goto durr
+[28/12/2016 13:59:23] Butcher(9)(101)(Admin)command goto -p durr
+[28/12/2016 13:59:23] Butcher(9)(147)(Admin) has entered worldmap
+[28/12/2016 13:59:23] Butcher(9)(147)(Admin) has entered map 147
+[28/12/2016 13:59:23] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 13:59:25] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 13:59:32] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 13:59:41] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 13:59:41] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 13:59:42] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 13:59:47] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 13:59:59] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:00:09] Butcher(9)(148)(Admin) has entered worldmap
+[28/12/2016 14:00:09] Butcher(9)(148)(Admin) has entered map 148
+[28/12/2016 14:00:48] Butcher(9)(148)(Admin)command teleport hub
+[28/12/2016 14:00:48] Butcher(9)(100)(Admin) has entered worldmap
+[28/12/2016 14:00:48] Butcher(9)(100)(Admin) has entered map 100
+[28/12/2016 14:00:58] Butcher(9)(100)(Admin)command goto -p durr
+[28/12/2016 14:00:58] Butcher(9)(147)(Admin) has entered worldmap
+[28/12/2016 14:00:58] Butcher(9)(147)(Admin) has entered map 147
+[28/12/2016 14:00:58] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:01:01] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:01:05] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:01:05] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:01:07] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:01:08] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:01:08] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:01:10] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use pick from ground on scenery 2038
+[28/12/2016 14:01:12] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use pick from ground on scenery 2038
+[28/12/2016 14:01:15] Butcher(9)(148)(Admin) has entered worldmap
+[28/12/2016 14:01:15] Butcher(9)(148)(Admin) has entered map 148
+[28/12/2016 14:01:17] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:17] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:18] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:18] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:21] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:25] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:25] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:25] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:25] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:28] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:29] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:31] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:32] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:35] Butcher(9)(148)(Admin) lost sight of Durr(12)(148)(Admin)
+[28/12/2016 14:01:36] Butcher(9)(148)(Admin) sees Durr(12)(148)(Admin)
+[28/12/2016 14:01:37] Butcher(9)(147)(Admin) has entered worldmap
+[28/12/2016 14:01:37] Butcher(9)(147)(Admin) has entered map 147
+[28/12/2016 14:02:03] Butcher(9)(147)(Admin)command give PID_SUPER_STIMPACK 20
+[28/12/2016 14:02:09] Butcher(9)(147)(Admin)command give PID_SS 20
+[28/12/2016 14:02:45] Butcher(9)(147)(Admin)command give PID_SUPER_STIMPACK 20
+[28/12/2016 14:02:52] Butcher(9)(147)(Admin)command give 115
+[28/12/2016 14:03:53] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:03:57] Butcher(9)(147)(Admin) picks up item 102 (2)
+[28/12/2016 14:04:12] Butcher(9)(147)(Admin) picks up item 2018
+[28/12/2016 14:04:13] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:04:14] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:04:14] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:04:16] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:04:34] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003305)
+[28/12/2016 14:04:53] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003307)
+[28/12/2016 14:04:59] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003309)
+[28/12/2016 14:05:16] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003305)
+[28/12/2016 14:05:21] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003302)
+[28/12/2016 14:05:28] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003302)
+[28/12/2016 14:05:31] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003303)
+[28/12/2016 14:06:12] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003302)
+[28/12/2016 14:06:19] Butcher(9)(147)(Admin) dropped item PID 115
+[28/12/2016 14:06:49] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:06:52] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:06:58] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:07:03] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:07:05] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:07:09] Butcher(9)(147)(Admin) saw Durr(12)(147)(Admin) use loot critter on Npc (5003300)
+[28/12/2016 14:07:13] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:07:14] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:07:30] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:07:30] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:07:30] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:07:31] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:07:31] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:07:32] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:07:32] Butcher(9)(147)(Admin) lost sight of Durr(12)(147)(Admin)
+[28/12/2016 14:07:33] Butcher(9)(147)(Admin) sees Durr(12)(147)(Admin)
+[28/12/2016 14:08:07] Butcher(9)(147)(Admin)command teleport hub
+[28/12/2016 14:08:07] Butcher(9)(100)(Admin) has entered worldmap
+[28/12/2016 14:08:07] Butcher(9)(100)(Admin) has entered map 100
+[28/12/2016 14:08:16] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 14:08:19] Butcher(9)(16)(Admin) has entered map 16
+[28/12/2016 14:08:19] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:08:21] Butcher(9)(16)(Admin) lost sight of Durr(12)(100)(Admin)
+[28/12/2016 14:08:55] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:09:00] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:09:01] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:09:01] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:09:09] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:09:14] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:09:14] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:09:14] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:09:15] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:09:33] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:09:36] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:09:55] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:10:01] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:10:01] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:10:24] Butcher(9)(16)(Admin)command give PID_BLUEPRINT_IMPROVED_FLAMETHROWER
+[28/12/2016 14:10:51] Butcher(9)(16)(Admin)command give PID_BLUEPRINT_MINIGUN
+[28/12/2016 14:11:27] Butcher(9)(16)(Admin)command give PID_PROD_FLINT 20000
+[28/12/2016 14:12:11] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:14:07] Butcher(9)(16)(Admin) sees Khans Are Shit(13)(16)
+[28/12/2016 14:19:16] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:19:48] Butcher(9)(16)(Admin) lost sight of Butchie(14)(100)(Admin)
+[28/12/2016 14:20:55] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:24:07] Butcher(9)(16)(Admin) picks up item 2958
+[28/12/2016 14:24:24] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:25:35] Butcher(9)(16)(Admin) saw Butchie(14)(16)(Admin) use first aid 
+[28/12/2016 14:25:42] Butcher(9)(16)(Admin) lost sight of Butchie(14)(16)(Admin)
+[28/12/2016 14:25:42] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:25:44] Butcher(9)(16)(Admin) lost sight of Butchie(14)(16)(Admin)
+[28/12/2016 14:26:00] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:26:01] Butcher(9)(16)(Admin) lost sight of Butchie(14)(16)(Admin)
+[28/12/2016 14:26:01] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:26:48] Butcher(9)(16)(Admin) lost sight of Butchie(14)(63)(Admin)
+[28/12/2016 14:27:48] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:30:20] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:30:44] Butcher(9)(16)(Admin) picks up item 2958
+[28/12/2016 14:30:46] Butcher(9)(16)(Admin) lost sight of Butchie(14)(16)(Admin)
+[28/12/2016 14:30:46] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:30:49] Butcher(9)(16)(Admin) lost sight of Butchie(14)(16)(Admin)
+[28/12/2016 14:30:49] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:35:40] Butcher(9)(16)(Admin) lost sight of Butchie(14)(227)(Admin)
+[28/12/2016 14:35:56] Butcher(9)(16)(Admin) lost sight of Khans Are Shit(13)(227)
+[28/12/2016 14:42:11] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:42:12] Butcher(9)(16)(Admin) lost sight of Butchie(14)(16)(Admin)
+[28/12/2016 14:42:13] Butcher(9)(16)(Admin) sees Butchie(14)(16)(Admin)
+[28/12/2016 14:42:15] Butcher(9)(16)(Admin) sees Khans Are Shit(13)(16)
+[28/12/2016 14:42:16] Butcher(9)(16)(Admin) picks up item 106 (3)
+[28/12/2016 14:42:17] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:18] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:18] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:18] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:18] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:19] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:20] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:21] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:22] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:22] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:22] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:22] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:23] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:23] Butcher(9)(16)(Admin) lost sight of Durr(12)(16)(Admin)
+[28/12/2016 14:42:23] Butcher(9)(16)(Admin) sees Durr(12)(16)(Admin)
+[28/12/2016 14:42:58] Butcher(9)(16)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:42:58] Butcher(9)(8)(Admin) has entered worldmap
+[28/12/2016 14:42:58] Butcher(9)(8)(Admin) has entered map 8
+[28/12/2016 14:42:58] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:43:08] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:43:17] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:43:19] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:43:20] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 14:43:20] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:43:20] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:43:20] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:43:20] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 14:43:21] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:43:21] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:43:21] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:43:21] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 14:43:21] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:43:22] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 14:43:25] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:43:30] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:43:35] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:43:48] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:43:48] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:43:49] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:43:50] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:43:51] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:43:52] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:43:52] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:44:28] Butcher(9)(8)(Admin)command teleport militia
+[28/12/2016 14:44:28] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:44:34] Butcher(9)(8)(Admin)command teleport reno
+[28/12/2016 14:44:40] Butcher(9)(8)(Admin)command teleport nr
+[28/12/2016 14:44:40] Butcher(9)(20)(Admin) has entered worldmap
+[28/12/2016 14:44:40] Butcher(9)(20)(Admin) has entered map 20
+[28/12/2016 14:44:45] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 14:44:52] Butcher(9)(22)(Admin) has entered map 22
+[28/12/2016 14:46:40] Butcher(9)(22)(Admin)command teleport modoc
+[28/12/2016 14:46:40] Butcher(9)(8)(Admin) has entered worldmap
+[28/12/2016 14:46:40] Butcher(9)(8)(Admin) has entered map 8
+[28/12/2016 14:46:40] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:46:40] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:46:46] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:47:01] Butcher(9)(8)(Admin) saw Butchie(14)(8)(Admin) use first aid 
+[28/12/2016 14:47:07] Butcher(9)(8)(Admin) saw Butchie(14)(8)(Admin) use first aid 
+[28/12/2016 14:47:20] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:47:20] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 14:47:20] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:47:20] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 14:47:26] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:47:26] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:47:30] Butcher(9)(8)(Admin) was attacked by Durr(12)(8)(Admin)
+[28/12/2016 14:47:32] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:47:32] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:47:32] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:47:33] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:47:33] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 14:47:33] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:47:34] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:47:43] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:47:51] Butcher(9)(8)(Admin)command resurect
+[28/12/2016 14:47:55] Butcher(9)(8)(Admin)command resurect -p butcher
+[28/12/2016 14:47:55] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:48:01] Butcher(9)(8)(Admin)command resurrect -p butcher
+[28/12/2016 14:48:06] Butcher(9)(8)(Admin)command ressurect -p butcher
+[28/12/2016 14:48:11] Butcher(9)(8)(Admin)command resurect -p butcher
+[28/12/2016 14:48:15] Butcher(9)(8)(Admin)command resurect -p butcher
+[28/12/2016 14:48:26] Butcher(9)(8)(Admin)command revive
+[28/12/2016 14:48:30] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:48:44] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:48:44] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:48:45] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:48:46] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:48:46] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:49:23] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:49:44] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:49:46] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:50:09] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:50:18] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:50:18] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:50:19] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:50:23] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:51:03] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:51:03] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:51:46] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:51:47] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:51:48] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:51:48] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:51:48] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:51:49] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:51:49] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:51:51] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:51:51] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:51:52] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:53:08] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:53:09] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:53:10] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:53:13] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:53:16] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:53:23] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:53:24] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:53:32] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) use sneak 
+[28/12/2016 14:53:32] Butcher(9)(8)(Admin) dropped item PID 39
+[28/12/2016 14:53:35] Butcher(9)(8)(Admin) dropped item PID 39
+[28/12/2016 14:53:39] Butcher(9)(8)(Admin) dropped item PID 36
+[28/12/2016 14:53:41] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:53:46] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:53:49] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:54:36] Butcher(9)(8)(Admin)command revive
+[28/12/2016 14:54:39] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 14:54:41] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 14:55:30] Butcher(9)(8)(Admin)command teleport depot
+[28/12/2016 14:55:41] Butcher(9)(8)(Admin)command teleport outta gum gang
+[28/12/2016 14:55:49] Butcher(9)(8)(Admin)command spawn vertibird
+[28/12/2016 14:55:58] Butcher(9)(8)(Admin)command spawn PID_VERTIBIRD
+[28/12/2016 14:56:03] Butcher(9)(8)(Admin)command give PID_VERTIBIRD
+[28/12/2016 14:56:06] Butcher(9)(8)(Admin) dropped item PID 808
+[28/12/2016 14:56:14] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 14:56:17] Butcher(9)(8)(Admin) has entered map 8
+[28/12/2016 14:56:39] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:56:46] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 14:57:19] Butcher(9)(8)(Admin) has entered map 8
+[28/12/2016 14:57:19] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:57:22] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:57:22] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:57:22] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:57:24] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:57:24] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 14:58:09] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 14:59:35] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 14:59:52] Butcher(9)(8)(Admin) has entered map 8
+[28/12/2016 14:59:59] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 15:00:13] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:00:57] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:01:00] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 15:01:00] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:04:56] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 15:04:56] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:04:57] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 15:04:57] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:05:14] Butcher(9)(8)(Admin) picks up item 2406
+[28/12/2016 15:05:21] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 15:05:21] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 15:05:35] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 15:05:41] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:05:48] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) use first aid 
+[28/12/2016 15:06:09] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) use first aid 
+[28/12/2016 15:06:13] Butcher(9)(8)(Admin) saw Butchie(14)(8)(Admin) use first aid on Khans Are Shit
+[28/12/2016 15:06:22] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 15:06:24] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:07:12] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 15:07:15] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:07:20] Butcher(9)(8)(Admin) lost sight of Butchie(14)(8)(Admin)
+[28/12/2016 15:07:25] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:08:03] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 15:08:03] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:08:07] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(8)
+[28/12/2016 15:08:10] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:08:17] Butcher(9)(8)(Admin) picks up item 2406
+[28/12/2016 15:08:44] Butcher(9)(8)(Admin) lost sight of Durr(12)(8)(Admin)
+[28/12/2016 15:08:45] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 15:09:12] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) attacking Butcher(9)(8)(Admin)
+[28/12/2016 15:09:12] Butcher(9)(8)(Admin) was attacked by Khans Are Shit(13)(8)
+[28/12/2016 15:10:53] Butcher(9)(8)(Admin) attacked Butchie(14)(8)(Admin)
+[28/12/2016 15:11:00] Butcher(9)(8)(Admin) saw Butchie(14)(8)(Admin) use first aid 
+[28/12/2016 15:11:57] Butcher(9)(8)(Admin) lost sight of Khans Are Shit(13)(63)
+[28/12/2016 15:18:48] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:18:58] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) attacking Durr(12)(8)(Admin)
+[28/12/2016 15:19:01] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) attacking Durr(12)(8)(Admin)
+[28/12/2016 15:19:05] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) attacking Durr(12)(8)(Admin)
+[28/12/2016 15:19:14] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) use first aid 
+[28/12/2016 15:19:18] Butcher(9)(8)(Admin) attacked Durr(12)(8)(Admin)
+[28/12/2016 15:19:24] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) use first aid on Durr
+[28/12/2016 15:19:30] Butcher(9)(8)(Admin) saw Butchie(14)(8)(Admin) use first aid on Durr
+[28/12/2016 15:19:42] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) attacking Khans Are Shit(13)(8)
+[28/12/2016 15:19:51] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) attacking Khans Are Shit(13)(8)
+[28/12/2016 15:19:57] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) attacking Khans Are Shit(13)(8)
+[28/12/2016 15:20:50] Butcher(9)(8)(Admin) saw Khans Are Shit(13)(8) attacking Durr(12)(8)(Admin)
+[28/12/2016 15:20:59] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) use first aid 
+[28/12/2016 15:21:15] Butcher(9)(8)(Admin) attacked Durr(12)(8)(Admin)
+[28/12/2016 15:21:24] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) use steal 
+[28/12/2016 15:21:26] Butcher(9)(8)(Admin) saw Durr(12)(8)(Admin) use first aid 
+[28/12/2016 15:21:27] Butcher(9)(8)(Admin) saw Butchie(14)(8)(Admin) use first aid on Durr
+[28/12/2016 15:22:24] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 15:22:24] Butcher(9)(8)(Admin) sees Durr(12)(8)(Admin)
+[28/12/2016 15:22:24] Butcher(9)(8)(Admin) sees Butchie(14)(8)(Admin)
+[28/12/2016 15:22:24] Butcher(9)(8)(Admin) sees Khans Are Shit(13)(8)
+[28/12/2016 15:22:35] Butcher(9)(8)(Admin) lost sight of Durr(12)(20)(Admin)
+[28/12/2016 15:22:35] Butcher(9)(20)(Admin) has entered worldmap
+[28/12/2016 15:22:35] Butcher(9)(20)(Admin) has entered map 20
+[28/12/2016 15:22:35] Butcher(9)(20)(Admin) sees Durr(12)(20)(Admin)
+[28/12/2016 15:22:42] Butcher(9)(20)(Admin) sees Butchie(14)(20)(Admin)
+[28/12/2016 15:22:43] Butcher(9)(20)(Admin) sees Khans Are Shit(13)(20)
+[28/12/2016 15:22:47] Butcher(9)(20)(Admin) lost sight of Butchie(14)(0)(Admin)
+[28/12/2016 15:22:51] Butcher(9)(20)(Admin) lost sight of Durr(12)(20)(Admin)
+[28/12/2016 15:22:57] Butcher(9)(20)(Admin) lost sight of Khans Are Shit(13)(0)
+[28/12/2016 15:22:57] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 15:23:02] Butcher(9)(22)(Admin) has entered map 22
+[28/12/2016 15:23:02] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:23:05] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)
+[28/12/2016 15:23:10] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:23:46] Butcher(9)(22)(Admin) picks up item 101
+[28/12/2016 15:24:14] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:24:14] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:24:14] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:24:14] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:24:15] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:24:15] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:24:15] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:24:18] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:24:19] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:24:19] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:24:20] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:24:20] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:24:20] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:24:20] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:24:53] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:24:53] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:24:58] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 15:25:36] Butcher(9)(22)(Admin) has entered map 22
+[28/12/2016 15:25:36] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:25:57] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:25:59] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:26:27] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:28] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:29] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:29] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:29] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:29] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:29] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:26:30] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:26:30] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:26:32] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:27:00] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:27:28] Butcher(9)(22)(Admin) saw Butchie(14)(22)(Admin) use first aid 
+[28/12/2016 15:27:30] Butcher(9)(22)(Admin) saw Durr(12)(22)(Admin) use first aid 
+[28/12/2016 15:27:36] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:27:36] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:27:36] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:27:36] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:27:37] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:27:37] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:27:37] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:27:37] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:27:39] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:27:40] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:27:40] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:27:40] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:27:42] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:27:42] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:27:47] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:27:47] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:27:47] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:27:51] Butcher(9)(22)(Admin) dropped item PID 296
+[28/12/2016 15:27:56] Butcher(9)(22)(Admin) lost sight of Durr(12)(22)(Admin)
+[28/12/2016 15:27:56] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:27:58] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 15:27:58] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:28:53] Butcher(9)(22)(Admin) lost sight of Durr(12)(43)(Admin)
+[28/12/2016 15:31:53] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:31:53] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:31:54] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:31:54] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:31:54] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:31:55] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:31:58] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:31:58] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:33:27] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 15:37:04] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:37:04] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:37:04] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:37:17] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:37:18] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:37:18] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:37:25] Butcher(9)(22)(Admin) lost sight of Butchie(14)(0)(Admin)
+[28/12/2016 15:37:27] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 15:43:14] Butcher(9)(22)(Admin) has entered map 22
+[28/12/2016 15:43:20] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:43:45] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:47:51] Butcher(9)(22)(Admin) saw Butch(15)(22)(Admin) use push critter on Butcher
+[28/12/2016 15:51:38] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:52:28] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:52:35] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:52:35] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:52:35] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:52:36] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:52:37] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:52:37] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:52:37] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:52:39] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:52:44] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:52:50] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:52:50] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:52:51] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:52:56] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:53:01] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:53:01] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:53:02] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:53:02] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:53:03] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:53:03] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:53:04] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:53:04] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 15:53:08] Butcher(9)(22)(Admin) saw Butchie(14)(22)(Admin) use first aid 
+[28/12/2016 15:53:16] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 15:53:29] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 15:53:30] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 15:56:25] Butcher(9)(22)(Admin) lost sight of Butch(15)(16)(Admin)
+[28/12/2016 15:57:31] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 16:06:50] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 16:07:02] Butcher(9)(22)(Admin) picks up item 28
+[28/12/2016 16:07:29] Butcher(9)(22)(Admin) picks up item 144 (2000)
+[28/12/2016 16:07:31] Butcher(9)(22)(Admin) picks up item 106 (100)
+[28/12/2016 16:07:44] Butcher(9)(22)(Admin) dropped item PID 101
+[28/12/2016 16:07:45] Butcher(9)(22)(Admin) picks up item 106 (100)
+[28/12/2016 16:07:52] Butcher(9)(22)(Admin) dropped item PID 541
+[28/12/2016 16:07:59] Butcher(9)(22)(Admin) picks up item 110 (100)
+[28/12/2016 16:08:01] Butcher(9)(22)(Admin) dropped item PID 259
+[28/12/2016 16:08:11] Butcher(9)(22)(Admin) dropped item PID 124
+[28/12/2016 16:08:13] Butcher(9)(22)(Admin) picks up item 87 (100)
+[28/12/2016 16:08:20] Butcher(9)(22)(Admin) dropped item PID 106
+[28/12/2016 16:08:30] Butcher(9)(22)(Admin) dropped item PID 144
+[28/12/2016 16:08:32] Butcher(9)(22)(Admin) picks up item 124 (95)
+[28/12/2016 16:08:35] Butcher(9)(22)(Admin) dropped item PID 144
+[28/12/2016 16:08:55] Butcher(9)(22)(Admin) picks up item 541 (95)
+[28/12/2016 16:09:02] Butcher(9)(22)(Admin) dropped item PID 36
+[28/12/2016 16:09:03] Butcher(9)(22)(Admin) picks up item 101 (99)
+[28/12/2016 16:09:07] Butcher(9)(22)(Admin) dropped item PID 36
+[28/12/2016 16:09:25] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 16:09:38] Butcher(9)(22)(Admin)command teleport gun runners
+[28/12/2016 16:09:38] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 16:09:38] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 16:09:38] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 16:09:40] Butcher(9)(130)(Admin) has entered worldmap
+[28/12/2016 16:09:40] Butcher(9)(130)(Admin) has entered map 130
+[28/12/2016 16:09:43] Butcher(9)(130)(Admin) sees Khans Are Shit(13)(130)(Admin)
+[28/12/2016 16:09:44] Butcher(9)(130)(Admin) lost sight of Khans Are Shit(13)(130)(Admin)
+[28/12/2016 16:09:55] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 16:10:08] Butcher(9)(127)(Admin) has entered map 127
+[28/12/2016 16:10:55] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:11:18] Butcher(9)(127)(Admin) dropped item PID 144
+[28/12/2016 16:11:22] Butcher(9)(127)(Admin) dropped item PID 36
+[28/12/2016 16:11:29] Butcher(9)(127)(Admin) dropped item PID 36
+[28/12/2016 16:11:33] Butcher(9)(127)(Admin) dropped item PID 144
+[28/12/2016 16:11:38] Butcher(9)(127)(Admin) dropped item PID 36
+[28/12/2016 16:11:44] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:11:44] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:12:00] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:12:07] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:24] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:12:25] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:12:29] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:12:30] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:12:30] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:12:31] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:12:31] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:12:32] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:12:32] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:12:32] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:12:34] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:34] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:35] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:35] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:35] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:36] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:36] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:36] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:37] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:37] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:37] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:37] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:37] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:43] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:43] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:45] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:47] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:47] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:50] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:51] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:51] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:52] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:52] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:53] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:56] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:56] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:12:56] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:11] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:14] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:16] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:47] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:47] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:47] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:47] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:48] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:48] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:48] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:48] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:51] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:51] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:52] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:13:52] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:14:12] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:14:12] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:14:17] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:14:20] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:14:23] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:15:00] Butcher(9)(127)(Admin)command revive
+[28/12/2016 16:15:05] Butcher(9)(127)(Admin)command revive
+[28/12/2016 16:15:06] Butcher(9)(127)(Admin)command revive
+[28/12/2016 16:15:15] Butcher(9)(127)(Admin)command revive -p butcher
+[28/12/2016 16:15:22] Butcher(9)(127)(Admin)command revive -p
+[28/12/2016 16:15:28] Butcher(9)(127)(Admin)command revive -p butcher
+[28/12/2016 16:15:29] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:15:29] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:15:32] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:15:32] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:15:34] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:15:34] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:15:35] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:15:35] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:15:35] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:15:38] Butcher(9)(127)(Admin) saw Durr(12)(127)(Admin) use first aid 
+[28/12/2016 16:15:47] Butcher(9)(127)(Admin) saw Durr(12)(127)(Admin) use first aid 
+[28/12/2016 16:15:58] Butcher(9)(127)(Admin) lost sight of Butch(15)(139)(Admin)
+[28/12/2016 16:16:09] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(139)(Admin)
+[28/12/2016 16:16:12] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:17:09] Butcher(9)(139)(Admin) has entered worldmap
+[28/12/2016 16:17:09] Butcher(9)(139)(Admin) has entered map 139
+[28/12/2016 16:17:17] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 16:17:37] Butcher(9)(127)(Admin) has entered map 127
+[28/12/2016 16:17:44] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:17:46] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:17:50] Butcher(9)(127)(Admin) saw Npc (la_locker_guards, 5003004)(5003004)(127) killing Butch(15)(127)(Admin)
+[28/12/2016 16:18:37] Butcher(9)(127)(Admin)command revive
+[28/12/2016 16:18:40] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(139)(Admin)
+[28/12/2016 16:18:56] Butcher(9)(127)(Admin)command revive
+[28/12/2016 16:18:58] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:18:58] Butcher(9)(127)(Admin) lost sight of Butch(15)(139)(Admin)
+[28/12/2016 16:19:07] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:19:07] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:19:08] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:20:29] Butcher(9)(139)(Admin) has entered worldmap
+[28/12/2016 16:20:29] Butcher(9)(139)(Admin) has entered map 139
+[28/12/2016 16:20:45] Butcher(9)(139)(Admin) sees Khans Are Shit(13)(139)(Admin)
+[28/12/2016 16:20:45] Butcher(9)(139)(Admin) lost sight of Khans Are Shit(13)(139)(Admin)
+[28/12/2016 16:20:48] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 16:21:03] Butcher(9)(127)(Admin) has entered map 127
+[28/12/2016 16:21:09] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:21:09] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:21:10] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:21:14] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:22:02] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:22:06] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:22:07] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:22:11] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:22:19] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:22:21] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:22:21] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:22:46] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:04] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:04] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:23:05] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:06] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:23:09] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:09] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:23:11] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:11] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:25] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:23:31] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:23:33] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:33] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:34] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:23:36] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:23:36] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:23:36] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:23:37] Butcher(9)(127)(Admin) sees Butch(15)(127)(Admin)
+[28/12/2016 16:23:37] Butcher(9)(127)(Admin) lost sight of Butch(15)(127)(Admin)
+[28/12/2016 16:23:41] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:41] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:41] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:45] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:51] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:23:53] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:24:38] Butcher(9)(127)(Admin)command teleport nr
+[28/12/2016 16:24:38] Butcher(9)(20)(Admin) has entered worldmap
+[28/12/2016 16:24:38] Butcher(9)(20)(Admin) has entered map 20
+[28/12/2016 16:24:42] Butcher(9)(20)(Admin) sees Durr(12)(20)(Admin)
+[28/12/2016 16:24:47] Butcher(9)(20)(Admin) lost sight of Durr(12)(20)(Admin)
+[28/12/2016 16:24:56] Butcher(9)(20)(Admin) sees Butch(15)(20)(Admin)
+[28/12/2016 16:24:58] Butcher(9)(20)(Admin) saw Butch(15)(20)(Admin) use first aid 
+[28/12/2016 16:25:01] Butcher(9)(20)(Admin) lost sight of Butch(15)(20)(Admin)
+[28/12/2016 16:25:10] Butcher(9)(135)(Admin) has entered worldmap
+[28/12/2016 16:25:10] Butcher(9)(135)(Admin) has entered map 135
+[28/12/2016 16:25:17] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 16:25:53] Butcher(9)(22)(Admin) has entered map 22
+[28/12/2016 16:25:53] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 16:25:53] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 16:25:53] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 16:25:53] Butcher(9)(22)(Admin) sees Durr(12)(22)(Admin)
+[28/12/2016 16:25:53] Butcher(9)(22)(Admin) picks up item 400
+[28/12/2016 16:25:55] Butcher(9)(22)(Admin) picks up item 382 (2000)
+[28/12/2016 16:26:12] Butcher(9)(22)(Admin) dropped item PID 36
+[28/12/2016 16:26:36] Butcher(9)(22)(Admin) picks up item 87 (95)
+[28/12/2016 16:26:37] Butcher(9)(22)(Admin) dropped item PID 144
+[28/12/2016 16:26:44] Butcher(9)(22)(Admin) saw Butch(15)(22)(Admin) use first aid on Khans Are Shit
+[28/12/2016 16:26:52] Butcher(9)(22)(Admin) picks up item 144 (1076)
+[28/12/2016 16:27:07] Butcher(9)(22)(Admin) dropped item PID 541
+[28/12/2016 16:27:11] Butcher(9)(22)(Admin) picks up item 144 (724)
+[28/12/2016 16:27:13] Butcher(9)(22)(Admin) dropped item PID 101
+[28/12/2016 16:27:21] Butcher(9)(22)(Admin) dropped item PID 259
+[28/12/2016 16:27:28] Butcher(9)(22)(Admin) dropped item PID 124
+[28/12/2016 16:27:29] Butcher(9)(22)(Admin) picks up item 106 (90)
+[28/12/2016 16:27:39] Butcher(9)(22)(Admin) dropped item PID 110
+[28/12/2016 16:27:42] Butcher(9)(22)(Admin) picks up item 541 (87)
+[28/12/2016 16:27:50] Butcher(9)(22)(Admin) dropped item PID 106
+[28/12/2016 16:27:53] Butcher(9)(22)(Admin) picks up item 101 (96)
+[28/12/2016 16:27:58] Butcher(9)(22)(Admin) dropped item PID 144
+[28/12/2016 16:28:04] Butcher(9)(22)(Admin) dropped item PID 240
+[28/12/2016 16:28:07] Butcher(9)(22)(Admin) picks up item 124 (87)
+[28/12/2016 16:28:10] Butcher(9)(22)(Admin) dropped item PID 144
+[28/12/2016 16:28:18] Butcher(9)(22)(Admin) picks up item 110 (87)
+[28/12/2016 16:28:38] Butcher(9)(22)(Admin) picks up item 101 (95)
+[28/12/2016 16:28:41] Butcher(9)(22)(Admin) picks up item 541 (82)
+[28/12/2016 16:28:51] Butcher(9)(22)(Admin) lost sight of Khans Are Shit(13)(22)(Admin)
+[28/12/2016 16:28:53] Butcher(9)(22)(Admin) sees Khans Are Shit(13)(22)(Admin)
+[28/12/2016 16:29:07] Butcher(9)(22)(Admin) picks up item 124 (82)
+[28/12/2016 16:29:17] Butcher(9)(22)(Admin) picks up item 106 (82)
+[28/12/2016 16:29:22] Butcher(9)(22)(Admin) picks up item 381
+[28/12/2016 16:29:25] Butcher(9)(22)(Admin) picks up item 726
+[28/12/2016 16:29:31] Butcher(9)(22)(Admin) picks up item 87 (90)
+[28/12/2016 16:29:36] Butcher(9)(22)(Admin) picks up item 28
+[28/12/2016 16:29:39] Butcher(9)(22)(Admin) picks up item 39 (4500)
+[28/12/2016 16:29:41] Butcher(9)(22)(Admin) picks up item 144 (180)
+[28/12/2016 16:29:59] Butcher(9)(22)(Admin) picks up item 110 (82)
+[28/12/2016 16:30:04] Butcher(9)(22)(Admin) picks up item 620
+[28/12/2016 16:30:06] Butcher(9)(22)(Admin) picks up item 621 (2000)
+[28/12/2016 16:30:24] Butcher(9)(22)(Admin) picks up item 9654
+[28/12/2016 16:30:27] Butcher(9)(22)(Admin) picks up item 741
+[28/12/2016 16:30:40] Butcher(9)(22)(Admin) picks up item 389
+[28/12/2016 16:30:42] Butcher(9)(22)(Admin) picks up item 36 (8000)
+[28/12/2016 16:31:38] Butcher(9)(22)(Admin) lost sight of Durr(12)(130)(Admin)
+[28/12/2016 16:31:38] Butcher(9)(130)(Admin) has entered worldmap
+[28/12/2016 16:31:38] Butcher(9)(130)(Admin) has entered map 130
+[28/12/2016 16:32:03] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 16:32:12] Butcher(9)(127)(Admin) has entered map 127
+[28/12/2016 16:32:12] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:32:13] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:32:15] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:32:20] Butcher(9)(127)(Admin) dropped item PID 36
+[28/12/2016 16:32:34] Butcher(9)(127)(Admin) saw Durr(12)(127)(Admin) use first aid 
+[28/12/2016 16:32:37] Butcher(9)(127)(Admin) picks up item 400
+[28/12/2016 16:32:55] Butcher(9)(127)(Admin) dropped item PID 36
+[28/12/2016 16:33:03] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:10] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:33:11] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:12] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:19] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:21] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:21] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:21] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:26] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:26] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:27] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:27] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:29] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:29] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:30] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:30] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:34] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:34] Butcher(9)(127)(Admin) sees Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:33:37] Butcher(9)(127)(Admin) lost sight of Khans Are Shit(13)(127)(Admin)
+[28/12/2016 16:34:41] Butcher(9)(139)(Admin) has entered worldmap
+[28/12/2016 16:34:41] Butcher(9)(139)(Admin) has entered map 139
+[28/12/2016 16:34:48] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 16:35:02] Butcher(9)(127)(Admin) has entered map 127
+[28/12/2016 16:35:02] Butcher(9)(127)(Admin) sees Durr(12)(127)(Admin)
+[28/12/2016 16:35:09] Butcher(9)(127)(Admin) lost sight of Durr(12)(127)(Admin)
+[28/12/2016 16:37:41] Butcher(9)(139)(Admin) has entered worldmap
+[28/12/2016 16:37:41] Butcher(9)(139)(Admin) has entered map 139
+[28/12/2016 16:39:43] Butcher(9)(139)(Admin) has entered worldmap
+[28/12/2016 18:01:31] Butcher(9)(139) has entered map 139
+[28/12/2016 18:01:45] Butcher(9)(0) has entered worldmap
+[28/12/2016 18:04:37] Authenticated: default (client->admin)
+[28/12/2016 18:04:44] Butcher(9)(0)(Admin)command teleport nr
+[28/12/2016 18:04:44] Butcher(9)(20)(Admin) has entered map 20
+[28/12/2016 18:04:49] Butcher(9)(0)(Admin) has entered worldmap
+[28/12/2016 18:04:54] Butcher(9)(22)(Admin) has entered map 22
+[28/12/2016 18:04:54] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 18:04:54] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:05:15] Butcher(9)(22)(Admin) dropped item PID 36
+[28/12/2016 18:05:19] Butcher(9)(22)(Admin) dropped item PID 36
+[28/12/2016 18:05:55] Butcher(9)(22)(Admin) dropped item PID 144
+[28/12/2016 18:06:44] Butcher(9)(22)(Admin) dropped item PID 101
+[28/12/2016 18:07:04] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 18:07:06] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:07:07] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:07:07] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:07:09] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:07:10] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 18:07:10] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 18:07:12] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:07:12] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:07:13] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:07:20] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:07:21] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:07:21] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:07:21] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:07:22] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:07:22] Butcher(9)(22)(Admin) lost sight of Butch(15)(22)(Admin)
+[28/12/2016 18:08:20] Butcher(9)(22)(Admin) sees Butch(15)(22)(Admin)
+[28/12/2016 18:08:22] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 18:08:27] Butcher(9)(22)(Admin) dropped item PID 387
+[28/12/2016 18:09:41] Butcher(9)(22)(Admin) attacked Butch(15)(22)(Admin)
+[28/12/2016 18:09:42] Butcher(9)(22)(Admin) attacked Butch(15)(22)(Admin)
+[28/12/2016 18:09:46] Butcher(9)(22)(Admin) attacked Butchie(14)(22)(Admin)
+[28/12/2016 18:10:29] Butcher(9)(22)(Admin) lost sight of Butchie(14)(22)(Admin)
+[28/12/2016 18:10:30] Butcher(9)(22)(Admin) sees Butchie(14)(22)(Admin)
+[28/12/2016 18:10:50] Butcher(9)(22)(Admin) attacked Butch(15)(22)(Admin)
+[28/12/2016 18:11:13] Butcher(9)(22)(Admin) attacked Butch(15)(22)(Admin)
+[29/12/2016 19:26:05] Butcher(9)(20) has entered map 20
+[29/12/2016 19:27:00] Butcher(9)(0) has entered worldmap
+[29/12/2016 19:27:07] Butcher(9)(22) has entered map 22
+[29/12/2016 19:28:48] Butcher(9)(135) has entered worldmap
+[29/12/2016 19:28:48] Butcher(9)(135) has entered map 135
+[29/12/2016 19:28:52] Butcher(9)(0) has entered worldmap
+[29/12/2016 19:29:26] Butcher(9)(20) has entered map 20
+[29/12/2016 19:29:36] Butcher(9)(0) has entered worldmap
+[29/12/2016 19:29:39] Butcher(9)(20) has entered map 20
+[29/12/2016 19:32:46] Butcher(9)(20) has entered worldmap
+[30/12/2016 12:07:13] Butcher(9)(20) has entered map 20
+[30/12/2016 12:51:43] Butcher(9)(0) has entered worldmap
+[30/12/2016 12:51:50] Butcher(9)(22) has entered map 22
+[30/12/2016 12:52:20] Butcher(9)(29) has entered worldmap
+[30/12/2016 12:52:20] Butcher(9)(29) has entered map 29
+[22/3/2017 15:51:00] Authenticated: default (client->admin)
+[22/3/2017 15:51:24] Butcher(9)(141)(Admin) has entered map 141
+[22/3/2017 15:58:36] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:58:36] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 15:58:40] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:58:40] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 15:58:40] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:58:41] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 15:58:41] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:58:42] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 15:58:42] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:58:58] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 15:58:58] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:58:58] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 15:59:00] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 15:59:15] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:00:23] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:01:11] Butcher(9)(141)(Admin) saw Butcher(9)(141)(Admin) killing Butch(15)(141)(Admin)
+[22/3/2017 16:01:12] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:01:23] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:01:28] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:01:28] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:01:38] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:01:38] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:01:43] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:01:49] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:02:18] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:03:10] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:03:12] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:03:17] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:03:18] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:03:22] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:03:24] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:06:26] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:06:28] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:06:33] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:06:45] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:07:31] Butcher(9)(141)(Admin) lost sight of Butch(15)(141)(Admin)
+[22/3/2017 16:07:56] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
+[22/3/2017 16:08:01] Butcher(9)(141)(Admin) saw Butcher(9)(141)(Admin) killing Butch(15)(141)(Admin)
+[22/3/2017 16:08:08] Butcher(9)(141)(Admin) sees Butch(15)(141)(Admin)
